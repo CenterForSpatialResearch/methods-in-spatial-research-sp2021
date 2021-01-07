@@ -1,17 +1,17 @@
 # Setup
 title:               Methods in Spatial Research
 tagline:             ''
-description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 https://darebrawley.github.io
-baseurl:             '/course-template'
+description:         'Course webpage'
+url:                 https://centerforspatialresearch.github.io/
+baseurl:             '/methods-in-spatial-research-sp2021'
 paginate:            5
 permalink:           pretty
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Dare Brawley
+  url:               c4sr.columbia.edu  
+  email:             dare.brawley@columbia.edu
 
 # Gems
 plugins:
