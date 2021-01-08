@@ -156,7 +156,7 @@ This is a discussion and collaborative-critique based course. All students and t
 
 GSAPP is committed to full inclusion of all students. Especially in online formats. Students needing any form of accommodation due to a disability should check in with [Disability Services (DS)](https://health.columbia.edu/content/disability-services) and speak with me at the beginning of the semester to provide the accommodations letter from DS. Alternatively you may ask your advisor to consult with me regarding your accommodations. 
 
-## "Classroom" Environment & Device policy
+## Classroom Environment & Device policy
 
 To help further class discussion and collaboration in the online format of this course you are: expected to arrive to the scheduled zoom meeting on time; encouraged to participate with your video camera (if technical or other issues prevent this please speak with me); and keep your audio muted when you are not actively speaking.
 
