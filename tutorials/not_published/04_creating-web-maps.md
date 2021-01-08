@@ -2,6 +2,8 @@
 # layout: page
 title: Creating Web Maps
 # order: 7
+publish: false
+
 ---
 
 We are going to be making web maps using [Mapbox GL JS](https://www.mapbox.com/mapbox-gl-js/api/). This is a recent javascript library that uses [WebGL](https://en.wikipedia.org/wiki/WebGL) to render interactive maps from vector tiles (as opposed to raster tiles) created with [Mapbox Studio](https://www.mapbox.com/mapbox-studio/). Data for these maps comes from [OpenStreetMap](https://www.openstreetmap.org).
