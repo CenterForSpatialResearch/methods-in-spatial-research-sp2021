@@ -4,6 +4,11 @@ title: Syllabus
 order: 1
 ---
 
+<!-- ![sample maps](/methods-in-spatial-research-sp2021/public/header_img_alt.png)
+From left:  
+[Dennis Wood. 2011. “Everything Sings: Maps for a Narrative Atlas” via Places Journal](https://placesjournal.org/article/everything-sings-maps-for-a-narrative-atlas/?cn-reloaded=1); 
+Hans Haacke *Shapolsky et al. Manhattan Real Estate Holdings, a Real-Time Social System, as of May 1, 1971*. 1971; [Folder. *Italian Limes*. 2014](http://www.italianlimes.net) -->
+
 # Syllabus
 
 Dare Brawley, Assistant Director, Center for Spatial Research  
@@ -59,6 +64,7 @@ or wilson? or maybe some kind of journalism piece (places??)
 lecture on spatial data types
 -->
 Film: Eames Office. *Powers of Ten: On the Relative Size of things in the Universe*. 1977. 9 minutes.  
+
 [Wood, Dennis. "Everything Sings: Maps for a Narrative Atlas." In Places Journal. 2011.](https://placesjournal.org/article/everything-sings-maps-for-a-narrative-atlas/?cn-reloaded=1)
 
 ### Week 2 | Cartographic Projections + Mapping Existing Datasets
