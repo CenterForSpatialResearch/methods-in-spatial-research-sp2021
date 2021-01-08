@@ -1,7 +1,7 @@
 ---
 # layout: page
 title: Precedents & Project Examples
-order: 3
+order: 9
 ---
 
 

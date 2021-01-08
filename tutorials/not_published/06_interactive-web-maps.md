@@ -1,8 +1,4 @@
----
-# layout: page
-title: Tutorial 6
-# order: 9
----
+
 todo: look at https://github.com/CenterForSpatialResearch/MappingForTheUrbanHumanities_2017/blob/master/Tutorials/07_Webmaps.md
 
 
