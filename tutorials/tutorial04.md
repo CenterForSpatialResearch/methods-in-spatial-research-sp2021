@@ -28,9 +28,21 @@ Click on the `Form Builder` tab, and you will be redirected to a the page below.
 
 Now drag and drop elements from the list to build your form, defining the elements for each as you go along. For the street art project, we will include the following elements: (1) `Text` to indicate the name of the store, (2) `Dropdown` to identify whether the street art is a mural or a detail (poster, sticker, etc), (3) `Location` to identify coordinates, (3) `Photo` to allow a photo of the street art, (4) `Text` to record additional information. After you are done, make sure to `Save Project`.
 
-![Epicollect 5 project set-up](/methods-in-spatial-research-sp2021/tutorials/assets/EpiCollect3.png)
+![Epicollect 5 form builder](/methods-in-spatial-research-sp2021/tutorials/assets/EpiCollect3.png)
 
-You can build the form to cater to the needs of your specific project. For further documentation, see the EpiCollect5 [formbuilder page](https://docs.epicollect.net/formbuilder/build-your-questionnaire). 
+You can build the form to cater to the needs of your specific project. For further documentation, see the EpiCollect5 [formbuilder page](https://docs.epicollect.net/formbuilder/build-your-questionnaire). Once your done building your form, you can start collecting data using your phone!
+
+## Collecting Data with EpiCollect Mobile App 
+
+Now, using your phone, download the EpiCollect 5 Mobile App. You can check Android and iOS compatability [here](https://docs.epicollect.net/mobile-application/mobile-application). 
+
+Log in to your account using the same email you used on the desktop application. Then, you should be redirected to your Projects, and your form should appear. Click on your project, and now you can start collecting data using the `Add Entry` button. 
+
+For each entry, which corresponds to a seperate observation on the ground, in our case, an individual mural, you will have to fill in all the fields you built with your form. Specifically for the `Location` entry, after clicking `Update Location`, make sure that the accuracy does not exceed about 200. If your accuracy is something like 1500, click `Update Location` again to capture a more accurate reading. 
+
+Once you are done with your fieldwork, collecting all your entries, to click `Upload Now` and go through uploading all data types untill you get the message `All entries successfully uploaded`. 
+
+Now, all your entries can be accessed and downloaded from the desktop application, to which we will return. 
 
 **Tutorial Deliverable:** 
 
