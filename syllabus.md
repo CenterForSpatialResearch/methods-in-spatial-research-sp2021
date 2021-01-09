@@ -42,45 +42,55 @@ After completing the course participants will:
 | Week | Date |  Topic | Tutorial |  Assignment |
 | ----------- | ----------- |
 | 1 | 1/15 |  Introduction to Critical GIS + Spatial Data Types |  |   |
-| 2 | 1/22 |  Cartographic Projections + Mapping Existing Datasets | [Tutorial 1](/methods-in-spatial-research-sp2021/tutorials/tutorial01/) |  Assignment 1  |
-| 3 | 1/29 |  Making Data from Archives | [Tutorial 2a](/methods-in-spatial-research-sp2021/tutorials/tutorial02/) & Tutorial 2b  |  Assignment 2  |
-| 4 | 2/5 |  Making Data From Observation & Sensing | [Tutorial 3](/methods-in-spatial-research-sp2021/tutorials/tutorial04/) |  Assignment 3 |
-| 5 | 2/12 |  Making Data from Satellites / Intro to Spatial Analysis | Tutorial 4 |  Assignment 4 |
-| 6 | 2/19 |  Maps & Narrative / Portfolio Presentations | Tutorial 5  |  Assignment 5 & Assembled Portfolio  |
+| 2 | 1/22 |  Cartographic Projections + Mapping Existing Datasets | [Tutorial 1](/methods-in-spatial-research-sp2021/tutorials/tutorial01/) |    |
+| 3 | 1/29 |  Making Data from Archives | [Tutorial 2a](/methods-in-spatial-research-sp2021/tutorials/tutorial02/) & Tutorial 2b  |  Assignment 1  |
+| 4 | 2/5 |  Making Data From Observation & Sensing | [Tutorial 3](/methods-in-spatial-research-sp2021/tutorials/tutorial04/) |  Assignment 2 |
+| 5 | 2/12 |  Making Data from Satellites / Intro to Spatial Analysis | Tutorial 4 |  Assignment 3 |
+| 6 | 2/19 |  Maps & Narrative / Portfolio Presentations | Tutorial 5  |  Assignment 4 & Assembled Portfolio  |
 
 
 ## Weekly Schedule, Readings, & Assignments
 
 ### Week 1 | Introduction to Critical GIS + Spatial Data Types
+#### In class
+Group map critiques. Examples to be distributed during class
 
 <!-- class plan:
-read kurgan or other short intro to critical gis in groups
-small group discussion of mapping projects
-what is a map? have the examples be focused on this
-Ideas for this: 
-paglen?
-kryger crampton what is critical gis?
-or wilson? or maybe some kind of journalism piece (places??) 
-lecture on spatial data types
+intros
+what this class is
+    - critical vs radical cartography (from lize mogel atlas)
+    - mapping & art
+    - multiple methods for spatial research
+discussion of map examples in small groups
+    - what are the components? annotate google slides to find: legend, north arrow 
+    - look at monmonier for elements of the map
+what is GIS + spatial data types (slides from NJIT)
 -->
-Film: Eames Office. *Powers of Ten: On the Relative Size of things in the Universe*. 1977. 9 minutes.  
+<!-- Film: Eames Office. *Powers of Ten: On the Relative Size of things in the Universe*. 1977. 9 minutes.  
 
-[Wood, Dennis. "Everything Sings: Maps for a Narrative Atlas." In Places Journal. 2011.](https://placesjournal.org/article/everything-sings-maps-for-a-narrative-atlas/?cn-reloaded=1)
+[Wood, Dennis. "Everything Sings: Maps for a Narrative Atlas." In Places Journal. 2011.](https://placesjournal.org/article/everything-sings-maps-for-a-narrative-atlas/?cn-reloaded=1) -->
 
 ### Week 2 | Cartographic Projections + Mapping Existing Datasets
 
 <!-- class plan:
-discuss map responses/ annotated bibliography examples
-lecture on projections  
-discussion of readings in small groups? -->
-#### Assignment 1 due - Map critique essay
+- discussion of readings in small groups + together
+- tutorial issues/troubleshooting
+- lecture on projections  
+- finding spatial data share resources -->
 #### Readings
-Couclelis, Helen. “People Manipulate Objects (but Cultivate Fields): Beyond the Raster-Vector Debate in GIS.” 1992.
 
 Corner, James. “The Agency of Mapping.” 2014.
 
-### Week 3 | Making Data From Observation & Sensing
+Couclelis, Helen. “People Manipulate Objects (but Cultivate Fields): Beyond the Raster-Vector Debate in GIS.” 1992.
 
+*Review projects/precedent examples page. Pick out two-three examples each week to review thoroughly on your own.*
+
+### Week 3 | Making Data From Observation & Sensing
+<!-- 
+class plan
+discussion of project examples in small groups. provided examples.
+reading discussion
+pin up of inadvertent use assignment -->
 #### Assignment 2 due – Inadvertent Use
 
 #### Readings
@@ -89,7 +99,9 @@ Corner, James. “The Agency of Mapping.” 2014.
 
 [Folder. *Italian Limes*. 2014](http://www.italianlimes.net/)
 
-Marco Ferrari, Elisa Pasqual, Alessandro Busi, Aaron Gillett. *A Moving Border: Alpine Cartographies of Climate Change* [Selections]. 2019
+Ferrari, Marco, Elisa Pasqual, Alessandro Busi, Aaron Gillett. *A Moving Border: Alpine Cartographies of Climate Change* [Selections]. 2019
+
+Williams, Sarah, Jacqueline Klopp, Daniel Orwa, Peter Waiganjo, and Adam White. “Digital Matatus: Using Mobile Technology to Visualize Informality.” 2015.
 
 ### Week 4 | Making Data from Archives
 
@@ -101,6 +113,9 @@ Marco Ferrari, Elisa Pasqual, Alessandro Busi, Aaron Gillett. *A Moving Border: 
  -->
 Baics, Gergely, and Leah Meisterlin. “Zoning Before Zoning: Land Use and Density in Mid-Nineteenth-Century New York City.” 2016.
 
+*Additional text to be assigned based on course composition*
+
+
 ### Week 5 | Making Data from Satellites / Spatial Analysis
 
 #### Assignment 4 due – Selective Digitization
@@ -109,6 +124,7 @@ Baics, Gergely, and Leah Meisterlin. “Zoning Before Zoning: Land Use and Densi
 
 Kurgan, Laura. “Mapping Considered as a Problem of Theory and Practice.” 2013.
 
+*Additional text to be assigned based on course composition*
 <!-- 
 Desimini, Jill, and Charles Waldheim. “Introduction: Projecting the Landscape Imaginary.” 2016. -->
 ### Week 6 | Maps & Narrative / Portfolio Presentations
@@ -120,8 +136,6 @@ Desimini, Jill, and Charles Waldheim. “Introduction: Projecting the Landscape 
 Film: *In Plain Sight.* by Diller Scofidio + Renfro, Laura Kurgan, Robert Gerard Pietrusko with Columbia Center for Spatial Research at the 2018 U.S. Pavilion.
 
 Mortenbock & Mooshammer. *Informal Market Worlds* [Selections]
-
-
 
 ## Requirements
 
@@ -136,7 +150,7 @@ For the final course session you will assemble your map assignments into a singl
 Final assessment will be:
 Attendance, engaged participation & discussion questions 20%
 Weekly tutorial completion 30%
-Weekly map assignments 50% (10% each)
+Weekly map assignments & compiled/revised map portfolio 50% (10% each)
 
 ## Academic Integrity
 
