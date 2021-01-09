@@ -14,6 +14,7 @@ For the purposes of this tutorial, we will demonstrate data collection for a pro
 
 ## Setting Up Your EpiCollect 5 Account and Project 
 
+
 Go to the [Epicollect 5 Website](https://five.epicollect.net/) and click log in on the top right corner. When redirected to the sign in page, use your columbia email to set up your account. 
 
 ![Epicollect 5 web set-up](/methods-in-spatial-research-sp2021/tutorials/assets/EpiCollect1.png)
@@ -42,7 +43,13 @@ For each entry, which corresponds to a seperate observation on the ground, in ou
 
 Once you are done with your fieldwork, collecting all your entries, to click `Upload Now` and go through uploading all data types untill you get the message `All entries successfully uploaded`. 
 
+![Epicollect 5 mobile application](/methods-in-spatial-research-sp2021/tutorials/assets/EpiCollect4.png)
+
 Now, all your entries can be accessed and downloaded from the desktop application, to which we will return. 
+
+## Accessing data from Epicollect 5 Desktop 
+
+
 
 **Tutorial Deliverable:** 
 
