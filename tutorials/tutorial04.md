@@ -22,9 +22,15 @@ Once you have logged in, click `Create Project` from the top menu, and start to 
 
 ![Epicollect 5 project set-up](/methods-in-spatial-research-sp2021/tutorials/assets/EpiCollect2.png)
 
-Now, you will be redirected to the project dashboard. From the dashboard's left hand menu, you will be able to manage the `Details` of the project, access the `Form Builder`, collaborate with users using `Manage Users`, and access your collected data from `Mapping Data`, among other things. First we will create the form that will define what data you are trying to collect. 
+Now, you will be redirected to the project dashboard. From the dashboard's left hand menu, you will be able to manage the `Details` of the project, access the `Form Builder`, collaborate with users using `Manage Users`, and access your collected data from `Mapping Data`, among other things. First we will create the form that will define what data we are trying to collect. 
 
+Click on the `Form Builder` tab, and you will be redirected to a the page below. Notice that the options on the left define what 'types' of data you can collect. The most important thing to remember is you always need a `Location` tab on your form: this capture latitude and logitude coordinates of your location through GPS, and will allow you to later export your data. 
 
+Now drag and drop elements from the list to build your form, defining the elements for each as you go along. For the street art project, we will include the following elements: (1) `Text` to indicate the name of the store, (2) `Dropdown` to identify whether the street art is a mural or a detail (poster, sticker, etc), (3) `Location` to identify coordinates, (3) `Photo` to allow a photo of the street art, (4) `Text` to record additional information. After you are done, make sure to `Save Project`.
+
+![Epicollect 5 project set-up](/methods-in-spatial-research-sp2021/tutorials/assets/EpiCollect3.png)
+
+You can build the form to cater to the needs of your specific project. For further documentation, see the EpiCollect5 [formbuilder page](https://docs.epicollect.net/formbuilder/build-your-questionnaire). 
 
 **Tutorial Deliverable:** 
 
