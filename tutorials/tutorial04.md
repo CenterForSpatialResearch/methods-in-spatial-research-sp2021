@@ -7,7 +7,7 @@ order: 7
 # Making Data From Observation & Sensing
 
 
-Observation and sensing can be powerful ways to capture spatial qualities that are not already packaged as readily available datasets. In this tutorial, we'll learn how to create our own dataset using [Epicollect 5](https://five.epicollect.net/), a free and easy-to-use web and mobile data-gathering platform. 
+Observation and sensing can be powerful ways to capture spatial qualities that are not already packaged as readily available datasets. In this tutorial, we'll learn how to create our own dataset using [Epicollect 5](https://five.epicollect.net/), a free and easy-to-use web and mobile data-gathering platform. You can access a full user's guide to Epicollect 5 [here](https://docs.epicollect.net/). 
 
 For the purposes of this tutorial, we will demonstrate data collection for a project documenting grafitti in Soho, Manhattan during the turbulent summer of 2020. 
 
@@ -16,11 +16,13 @@ For the purposes of this tutorial, we will demonstrate data collection for a pro
 
 Go to the [Epicollect 5 Website](https://five.epicollect.net/) and click log in on the top right corner. When redirected to the sign in page, use your columbia email to set up your account. 
 
-![Epicollect 5 web set-up](/methods-in-spatial-research-sp2021/tutorials/assets/epicollect1.png)
+![Epicollect 5 web set-up](/methods-in-spatial-research-sp2021/tutorials/assets/EpiCollect1.png)
 
-Once you have logged in, click `Create Project` from the top menu, and start to fill out the form with essential information describing your project. Keep the access settings to private.  
+Once you have logged in, click `Create Project` from the top menu, and start to fill out the form with essential information describing your project. Keep the access settings to `private`.  
 
-![Epicollect 5 project set-up](/methods-in-spatial-research-sp2021/tutorials/assets/epicollect2.png)
+![Epicollect 5 project set-up](/methods-in-spatial-research-sp2021/tutorials/assets/EpiCollect2.png)
+
+Now, you will be redirected to the project dashboard. From the dashboard's left hand menu, you will be able to manage the `Details` of the project, access the `Form Builder`, collaborate with users using `Manage Users`, and access your collected data from `Mapping Data`, among other things. First we will create the form that will define what data you are trying to collect. 
 
 
 
