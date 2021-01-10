@@ -49,7 +49,7 @@ Now, all your entries can be accessed and downloaded from the desktop applicatio
 
 ## Accessing data from Epicollect 5 Desktop 
 
-
+Now, back to [EpiCollect Desktop](https://five.epicollect.net/). 
 
 **Tutorial Deliverable:** 
 
