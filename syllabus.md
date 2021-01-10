@@ -152,6 +152,13 @@ Attendance, engaged participation & discussion questions 20%
 Weekly tutorial completion 30%
 Weekly map assignments & compiled/revised map portfolio 50% (10% each)
 
+## Software
+
+Geographic Information Systems is not a software. As such this course will not seek to provide students with proficiency in a particular software platform.  
+Tutorial resources will be primarily provided for QGIS 3.10. This is an open source software program for geographic analysis that runs on Windows, Mac, and Linux operating systems. All students will be expected to download and install QGIS 3.10. Documentation for QGIS is available [here](https://docs.qgis.org/3.10/en/docs/index.html), and a training manual with good basic tutorials is available [here](https://docs.qgis.org/3.10/en/docs/training_manual/).  
+Information regarding other GIS softwares will be provided in course resources.  
+Knowledge of design and layout programs (Adobe Illustrator, and InDesign) may be useful to you but is not required.  
+
 ## Academic Integrity
 
 The intellectual venture in which we are all engaged requires of faculty and students alike the highest level of personal and academic integrity. As members of an academic community, each one of us bears the responsibility to participate in scholarly discourse and research in a manner characterized by intellectual honesty and scholarly integrity.  
