@@ -49,7 +49,18 @@ Now, all your entries can be accessed and downloaded from the desktop applicatio
 
 ## Accessing data from Epicollect 5 Desktop 
 
-Now, back to [EpiCollect Desktop](https://five.epicollect.net/). 
+Now, back to [EpiCollect Desktop](https://five.epicollect.net/). Navigate to my project, and click on your project. After you have uploaded data, you will be able to access `Details`, which will allow you to return and edit the formbuilder and other project settings, or `View Data`, where you can explore the dataset you've constrcted. Click `View Data`, which will allow you to explore your data as a `Table`, where you can view edit, and delete entries using the icons corresponding to each entry. 
+
+![Epicollect 5 table](/methods-in-spatial-research-sp2021/tutorials/assets/EpiCollect5.png)
+
+Or, you can explore your project as a `Map`, where you can begin to explore spatial trends in the data. 
+
+![Epicollect 5 map](/methods-in-spatial-research-sp2021/tutorials/assets/EpiCollect6.png)
+
+Lastly, you can `Download` your data as a `.csv` or `.JSON` file. Download it as a `.csv` and you will be ready to import it into QGIS, following steps in tutorial xxx. 
+
+![Epicollect 5 download](/methods-in-spatial-research-sp2021/tutorials/assets/EpiCollect7.png)
+
 
 **Tutorial Deliverable:** 
 
