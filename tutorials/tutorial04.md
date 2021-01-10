@@ -57,7 +57,7 @@ Or, you can explore your project as a **Map**, where you can begin to explore sp
 
 ![Epicollect 5 map](/methods-in-spatial-research-sp2021/tutorials/assets/EpiCollect6.png)
 
-Lastly, you can `Download` your data as a **.csv** or **.JSON** file. Download it as a **.csv** and you will be ready to import it into QGIS, following steps in tutorial xxx. 
+Lastly, you can `Download` your data as a `.csv` or `.JSON` file. Download it as a `.csv` and you will be ready to import it into QGIS, following steps in tutorial xxx. 
 
 ![Epicollect 5 download](/methods-in-spatial-research-sp2021/tutorials/assets/EpiCollect7.png)
 
