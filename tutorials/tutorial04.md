@@ -19,15 +19,15 @@ Go to the [Epicollect 5 Website](https://five.epicollect.net/) and click log in 
 
 ![Epicollect 5 web set-up](/methods-in-spatial-research-sp2021/tutorials/assets/EpiCollect1.png)
 
-Once you have logged in, click `Create Project` from the top menu, and start to fill out the form with essential information describing your project. Keep the access settings to `private`.  
+Once you have logged in, click **Create Project** from the top menu, and start to fill out the form with essential information describing your project. Keep the access settings to **private**.  
 
 ![Epicollect 5 project set-up](/methods-in-spatial-research-sp2021/tutorials/assets/EpiCollect2.png)
 
-Now, you will be redirected to the project dashboard. From the dashboard's left hand menu, you will be able to manage the `Details` of the project, access the `Form Builder`, collaborate with users using `Manage Users`, and access your collected data from `Mapping Data`, among other things. First we will create the form that will define what data we are trying to collect. 
+Now, you will be redirected to the project dashboard. From the dashboard's left hand menu, you will be able to manage the `Details` of the project, access the **Form Builder**, collaborate with users using **Manage Users**, and access your collected data from **Mapping Data**, among other things. First we will create the form that will define what data we are trying to collect. 
 
-Click on the `Form Builder` tab, and you will be redirected to a the page below. Notice that the options on the left define what 'types' of data you can collect. The most important thing to remember is you always need a `Location` tab on your form: this capture latitude and logitude coordinates of your location through GPS, and will allow you to later export your data. 
+Click on the **Form Builder** tab, and you will be redirected to a the page below. Notice that the options on the left define what **types** of data you can collect. The most important thing to remember is you always need a **Location** tab on your form: this capture latitude and logitude coordinates of your location through GPS, and will allow you to later export your data. 
 
-Now drag and drop elements from the list to build your form, defining the elements for each as you go along. For the street art project, we will include the following elements: (1) `Text` to indicate the name of the store, (2) `Dropdown` to identify whether the street art is a mural or a detail (poster, sticker, etc), (3) `Location` to identify coordinates, (3) `Photo` to allow a photo of the street art, (4) `Text` to record additional information. After you are done, make sure to `Save Project`.
+Now drag and drop elements from the list to build your form, defining the elements for each as you go along. For the street art project, we will include the following elements: (1) **Text** to indicate the name of the store, (2) **Dropdown** to identify whether the street art is a mural or a detail (poster, sticker, etc), (3) **Location** to identify coordinates, (3) **Photo** to allow a photo of the street art, (4) **Text** to record additional information. After you are done, make sure to **Save Project**.
 
 ![Epicollect 5 form builder](/methods-in-spatial-research-sp2021/tutorials/assets/EpiCollect3.png)
 
@@ -37,11 +37,11 @@ You can build the form to cater to the needs of your specific project. For furth
 
 Now, using your phone, download the EpiCollect 5 Mobile App. You can check Android and iOS compatability [here](https://docs.epicollect.net/mobile-application/mobile-application). 
 
-Log in to your account using the same email you used on the desktop application. Then, you should be redirected to your Projects, and your form should appear. Click on your project, and now you can start collecting data using the `Add Entry` button. 
+Log in to your account using the same email you used on the desktop application. Then, you should be redirected to your Projects, and your form should appear. Click on your project, and now you can start collecting data using **Add Entry**. 
 
-For each entry, which corresponds to a seperate observation on the ground, in our case, an individual mural, you will have to fill in all the fields you built with your form. Specifically for the `Location` entry, after clicking `Update Location`, make sure that the accuracy does not exceed about 200. If your accuracy is something like 1500, click `Update Location` again to capture a more accurate reading. 
+For each entry, which corresponds to a seperate observation on the ground, in our case, an individual mural, you will have to fill in all the fields you built with your form. Specifically for the **Location** entry, after clicking **Update Location**, make sure that the accuracy does not exceed about 200. If your accuracy is something like 1500, click **Update Location** again to capture a more accurate reading. 
 
-Once you are done with your fieldwork, collecting all your entries, to click `Upload Now` and go through uploading all data types untill you get the message `All entries successfully uploaded`. 
+Once you are done with your fieldwork, collecting all your entries, to click **Upload Now** and go through uploading all data types untill you get the message **All entries successfully uploaded**. 
 
 ![Epicollect 5 mobile application](/methods-in-spatial-research-sp2021/tutorials/assets/EpiCollect4.png)
 
@@ -49,15 +49,15 @@ Now, all your entries can be accessed and downloaded from the desktop applicatio
 
 ## Accessing data from Epicollect 5 Desktop 
 
-Now, back to [EpiCollect Desktop](https://five.epicollect.net/). Navigate to my project, and click on your project. After you have uploaded data, you will be able to access `Details`, which will allow you to return and edit the formbuilder and other project settings, or `View Data`, where you can explore the dataset you've constrcted. Click `View Data`, which will allow you to explore your data as a `Table`, where you can view edit, and delete entries using the icons corresponding to each entry. 
+Now, back to [EpiCollect Desktop](https://five.epicollect.net/). Navigate to my project, and click on your project. After you have uploaded data, you will be able to access `Details`, which will allow you to return and edit the formbuilder and other project settings, or **View Data**, where you can explore the dataset you've constrcted. Click **View Data**, which will allow you to explore your data as a **Table**, where you can view edit, and delete entries using the icons corresponding to each entry. 
 
 ![Epicollect 5 table](/methods-in-spatial-research-sp2021/tutorials/assets/EpiCollect5.png)
 
-Or, you can explore your project as a `Map`, where you can begin to explore spatial trends in the data. 
+Or, you can explore your project as a **Map**, where you can begin to explore spatial trends in the data. 
 
 ![Epicollect 5 map](/methods-in-spatial-research-sp2021/tutorials/assets/EpiCollect6.png)
 
-Lastly, you can `Download` your data as a `.csv` or `.JSON` file. Download it as a `.csv` and you will be ready to import it into QGIS, following steps in tutorial xxx. 
+Lastly, you can `Download` your data as a **.csv** or **.JSON** file. Download it as a **.csv** and you will be ready to import it into QGIS, following steps in tutorial xxx. 
 
 ![Epicollect 5 download](/methods-in-spatial-research-sp2021/tutorials/assets/EpiCollect7.png)
 
