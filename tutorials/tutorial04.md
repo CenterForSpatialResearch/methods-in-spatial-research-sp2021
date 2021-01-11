@@ -7,13 +7,12 @@ order: 7
 # Making Data From Observation & Sensing
 
 
-Observation and sensing can be powerful ways to capture spatial qualities that are not already packaged as readily available datasets. In this tutorial, we'll learn how to create our own dataset using [Epicollect 5](https://five.epicollect.net/), a free and easy-to-use web and mobile data-gathering platform. You can access a full user's guide to Epicollect 5 [here](https://docs.epicollect.net/). 
+Observation and sensing can be powerful ways to capture spatial qualities that are not already packaged as readily available datasets. In this tutorial, you will learn how to create your own data through observation, using the GPS recievers on phones to capture the latitude and longitude coordinates of points linked to any attribute fields of your choosing. To do so, we will be using [Epicollect 5](https://five.epicollect.net/), a free and easy-to-use web and mobile data-gathering platform. You can access a full user's guide to Epicollect 5 [here](https://docs.epicollect.net/). 
 
-For the purposes of this tutorial, we will demonstrate data collection for a project documenting grafitti in Soho, Manhattan during the turbulent summer of 2020. 
+For the purposes of this tutorial, we will demonstrate data collection for a project documenting grafitti in Soho, Manhattan during the summer of 2020. 
 
 
 ## Setting Up Your EpiCollect 5 Account and Project 
-
 
 Go to the [Epicollect 5 Website](https://five.epicollect.net/) and click log in on the top right corner. When redirected to the sign in page, use your columbia email to set up your account. 
 
@@ -25,7 +24,7 @@ Once you have logged in, click **Create Project** from the top menu, and start t
 
 Now, you will be redirected to the project dashboard. From the dashboard's left hand menu, you will be able to manage the `Details` of the project, access the **Form Builder**, collaborate with users using **Manage Users**, and access your collected data from **Mapping Data**, among other things. First we will create the form that will define what data we are trying to collect. 
 
-Click on the **Form Builder** tab, and you will be redirected to a the page below. Notice that the options on the left define what **types** of data you can collect. The most important thing to remember is you always need a **Location** tab on your form: this capture latitude and logitude coordinates of your location through GPS, and will allow you to later export your data. 
+Click on the **Form Builder** tab, and you will be redirected to a the page below. Here is where you will be specifying the fields in the attribute table of the dataset you are creating. Notice that the options on the left define what **types** of data you can collect. The most important thing to remember is you always need a **Location** tab on your form: this capture latitude and logitude coordinates of your location through GPS, and will allow you to later export your data. 
 
 Now drag and drop elements from the list to build your form, defining the elements for each as you go along. For the street art project, we will include the following elements: (1) **Text** to indicate the name of the store, (2) **Dropdown** to identify whether the street art is a mural or a detail (poster, sticker, etc), (3) **Location** to identify coordinates, (3) **Photo** to allow a photo of the street art, (4) **Text** to record additional information. After you are done, make sure to **Save Project**.
 
@@ -57,7 +56,7 @@ Or, you can explore your project as a **Map**, where you can begin to explore sp
 
 ![Epicollect 5 map](/methods-in-spatial-research-sp2021/tutorials/assets/EpiCollect6.png)
 
-Lastly, you can `Download` your data as a `.csv` or `.JSON` file. Download it as a `.csv` and you will be ready to import it into QGIS, following steps in tutorial xxx. 
+Lastly, you can `Download` your data as a `.csv` or `.JSON` file. Download it as a `.csv` and you will be ready to import it into QGIS, following steps in [tutorial 2](https://centerforspatialresearch.github.io//methods-in-spatial-research-sp2021/tutorials/tutorial02/). 
 
 ![Epicollect 5 download](/methods-in-spatial-research-sp2021/tutorials/assets/EpiCollect7.png)
 
@@ -68,11 +67,8 @@ TBD
 
 <!-- Before the beginning of the next class, create a spatial dataset that doesn't yet exist, but that can be produced through a single short session of field work or archival research. **Produce a simple map illustrating your work and upload it to the Deliverables folder.**
 
-Your dataset can be produced using any combination of the methods above, and again, is not expected to be overly detailed or time-consuming to produce. The most important thing is that the subject of your data be interesting enough to you to continue working on as you develop your final project for the class. In the next session we'll use the datasets you create to explore strategies for static visualization. -->
+Your dataset can be produced using any combination of the methods above, and again, is not expected to be overly detailed or time-consuming to produce. The most important thing is that the subject of your data be interesting enough to you to continue working on as you develop your final project for the class. In the next session we'll use the datasets you create to explore strategies for static visualization. 
 
 ---
 
 Tutorial by Nadine Fattaleh, Spring 2021. 
-
-Adapted from materials from [Mapping for the Urban Humanities](https://github.com/CenterForSpatialResearch/mapping_for_the_urban_humanities), taught by Bernadette Baird-Zars, Eric Glass & Leah Meisterlin, Summer 2019.
-
