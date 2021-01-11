@@ -1,5 +1,5 @@
 ---
-layout: page
+# layout: page
 title: Precedents & Project Examples
 order: 9
 ---
@@ -58,21 +58,19 @@ Beatrixpark, Amsterdam. Site specific artwork.](http://www.jeremywood.net/artwor
 
 - [Begley, Josh, “Best of Luck with the Wall.” Field of Vision. 2016](https://theintercept.com/2016/10/26/best-of-luck-with-the-wall/)
 
+- [Cooper, Danika, “Invisible Desert.” E-Flux Architecture. February 5, 2020](https://www.e-flux.com/architecture/new-silk-roads/313103/invisible-desert/) 
+
+- Paglen, Trevor. Blank spots on the map: the dark geography of the Pentagon's secret world. London: Penguin, 2009. [Preview available online [here](https://www.google.com/books/edition/Blank_Spots_on_the_Map/oM8u2198DcsC?hl=en&gbpv=1&printsec=frontcover)]
+
 - [Fattaleh, Nadine and Adam Vosburgh, “Research Towards a New Politics of Care.” Center for Spatial Research. 2020.](https://centerforspatialresearch.github.io/summer2020_research/2020/08/30/supply-chain.html)
 
 ## Maps & Narrative
-
-
-- Cooper, Danika, “Invisible Desert.” E-Flux architecture. https://www.e-flux.com/architecture/new-silk-roads/313103/invisible-desert/ 
-
-- Paglen, Trevor. Blank spots on the map: the dark geography of the Pentagon's secret world. London: Penguin, 2009. 
-
 
 - Solnit, Rebecca and Joshua Jelly-Schapiro, Nonstop Metropolis: A New York City Atlas. California: University of California Press, 2016. 
 
 - Mogel, Lize, and Alexis Bhagat, eds. An Atlas of Radical Cartography. Los Angeles: Journal of Aesthetics & Protest Press, 2008.
 
-- Fawaz, Mona, Dounia Salame and Isabela Serhan, "Seeing the City as a Delivery Driver: Practices of Syrian Men in Beirut, Lebanon" in Refugees as City Makers. https://www.aub.edu.lb/ifi/Documents/publications/research_reports/2018-2019/20180910_refugees_as_city_makers.pdf 
+- [Forensic Architecture's Investigations.](https://forensic-architecture.org/) Many projects, lots of different examples on maps and/as investigations/narratives.
 
 <!-- Other misc projects to be added: 
 Anti-Eviction Mapping Project 
