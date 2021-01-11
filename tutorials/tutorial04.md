@@ -67,7 +67,7 @@ TBD
 
 <!-- Before the beginning of the next class, create a spatial dataset that doesn't yet exist, but that can be produced through a single short session of field work or archival research. **Produce a simple map illustrating your work and upload it to the Deliverables folder.**
 
-Your dataset can be produced using any combination of the methods above, and again, is not expected to be overly detailed or time-consuming to produce. The most important thing is that the subject of your data be interesting enough to you to continue working on as you develop your final project for the class. In the next session we'll use the datasets you create to explore strategies for static visualization. 
+Your dataset can be produced using any combination of the methods above, and again, is not expected to be overly detailed or time-consuming to produce. The most important thing is that the subject of your data be interesting enough to you to continue working on as you develop your final project for the class. In the next session we'll use the datasets you create to explore strategies for static visualization. --!> 
 
 ---
 
