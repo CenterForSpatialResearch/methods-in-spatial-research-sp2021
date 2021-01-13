@@ -1,7 +1,7 @@
 ---
-# layout: page
+layout: page
 title: Precedents & Project Examples
-order: 9
+order: 2
 ---
 
 # Living document of precedent projects....

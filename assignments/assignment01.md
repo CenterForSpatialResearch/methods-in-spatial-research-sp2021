@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Assignment 1
-order: 4
+order: 9
 ---
 
 ## Critical Cartography Through Inadvertent Use
