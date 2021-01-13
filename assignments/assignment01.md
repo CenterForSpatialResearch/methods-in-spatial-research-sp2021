@@ -28,7 +28,7 @@ Find two digital spatial datasets about a place (that is **not** New York City) 
 
 ### Format
 
-- Your final map must be a designed map composition on a single 16:9 slide. You are encouraged to select one of the map examples discussed on 1/15 and immitate its graphic style. 
+- Your final map must be a designed map composition on a single 16:9 slide. You are encouraged to select one of the map examples discussed on 1/15 and imitate its graphic style. 
 - Your designed map composition must include:
   - title
   - legend

@@ -39,13 +39,13 @@ After completing the course participants will:
 
 ## Course Overview
 
-| Week | Date |  Topic | Tutorial |  Assignment |
+| Week | Date |  Topic | Tutorial due |  Assignment due |
 | ----------- | ----------- |
 | 1 | 1/15 |  Introduction to Critical GIS + Spatial Data Types |  |   |
 | 2 | 1/22 |  Cartographic Projections + Mapping Existing Datasets | [Tutorial 1](/methods-in-spatial-research-sp2021/tutorials/tutorial01/) |    |
-| 3 | 1/29 |  Making Data from Archives | [Tutorial 2a](/methods-in-spatial-research-sp2021/tutorials/tutorial02/) & Tutorial 2b  |  Assignment 1  |
-| 4 | 2/5 |  Making Data From Observation & Sensing | [Tutorial 3](/methods-in-spatial-research-sp2021/tutorials/tutorial04/) |  Assignment 2 |
-| 5 | 2/12 |  Making Data from Satellites / Intro to Spatial Analysis | Tutorial 4 |  Assignment 3 |
+| 3 | 1/29 |   Making Data From Observation & Sensing | [Tutorial 2a](/methods-in-spatial-research-sp2021/tutorials/tutorial02/) & Tutorial 2b  |  [Assignment 1](/methods-in-spatial-research-sp2021/assignments/assignment01/)  |
+| 4 | 2/5 | Making Data from Archives | [Tutorial 3](/methods-in-spatial-research-sp2021/tutorials/tutorial03/) |  Assignment 2 |
+| 5 | 2/12 |  Making Data from Satellites / Intro to Spatial Analysis | [Tutorial 4](/methods-in-spatial-research-sp2021/tutorials/tutorial04/) |  Assignment 3 |
 | 6 | 2/19 |  Maps & Narrative / Portfolio Presentations | Tutorial 5  |  Assignment 4 & Assembled Portfolio  |
 
 

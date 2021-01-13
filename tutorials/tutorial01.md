@@ -11,13 +11,13 @@ This tutorial is meant to introduce QGIS as a tool for working with spatial data
 
 ## Setup
 
-Before starting, you'll need to download and install QGIS. While the tutorials use version 3.10, you're welcome to experiment with any other 3.* version. Just be aware that your interface may not look exactly the same as the tutorial screenshots.
+Before starting, you'll need to download and install QGIS. While the tutorials use version 3.10, the current Long Term Release (LTR). You're welcome to experiment with any other 3.* version. Just be aware that your interface may not look exactly the same as the tutorial screenshots.
 
-Since this series of tutorials is set up as a set of exercises around a common collection of data and culminating in a final project, you'll want to set up a **project folder** before getting started. All members of the Columbia community have access to unlimited storage on Google Drive, if you don't already do so, we recommend you use make use of this resource to back up your project folder through the [Backup and Sync](https://www.google.com/drive/download/backup-and-sync/) tool provided by Google.
+Visit [this page](https://qgis.org/en/site/forusers/download.html) and download the version for your operating system.
 
-![create instance of folder](/methods-in-spatial-research-sp2021/tutorials/assets/gdrive_sync-instance.png)
+Since this series of tutorials is set up as a set of exercises around a common collection of data, you'll want to set up a **project folder** before getting started. Create a folder on your computer where you will save all of your assignments and data for this class.  
 
-Once your project folder is set up and syncing, go to the [Methods in Spatial Research](https://drive.google.com/drive/folders/1IVjKSGSpNVmGB6r6zkiWuKoeryMfxZow?usp=sharing) folder in your browser. Click the folder labeled "Shared Data" to select it, and press `Shift + Z`. In the pop-up window, navigate to your project folder and then click "Add". This will create an instance of the shared data folder for the class within your project that will automatically keep itself updated if the data should change. In your project folder, also create a folder labeled "My_Data". This is where you'll store datasets you create yourself in Weeks 3 and 4.
+Download the 'Shared_Data' folder from the workshop google drive. Place it in your project folder for this class. Also create a folder labeled 'My_Data' within the project folder -- this is where you will store the data you create and/or download for the course assignments.  
 
 ## The QGIS Interface
 
@@ -32,7 +32,7 @@ When you first launch QGIS, it opens a new blank map project as illustrated in t
 5. The **Browser Panel** contains a list of data sources on your computer's file system (represented by folder icons) and various network sources (each has a different blue-hued icon). Folders and other sources can be expanded by clicking the triangles to the left of each icon. Anything here that can be read by QGIS as a layer can be added to the project by dragging it to the Layer Panel or Map View.
 6. Finally, the **Status Bar** shows the position of your cursor in the map view, the current scale and rotation of the map view, and the project’s coordinate system. When working with large datasets, you can also pause/resume map drawing with the "Render" checkbox.
 
-Hovering over any button in the interface will display a **tooltip** with a brief description. More details can be found in the [QGIS Documentation](https://docs.qgis.org/3.4/en/docs/user_manual/introduction/qgis_gui.html).
+Hovering over any button in the interface will display a **tooltip** with a brief description. More details can be found in the [QGIS Documentation](https://docs.qgis.org/3.10/en/docs/index.html). (**note:** each version of qGIS has its own documentation website, if you are not using 3.10 make sure you use the docs for the version of QGIS that you are using.)
 
 Once you're familiar with the standard interface layout, you may want to customize your workspace. Toolbars and Panels can be turned on or off by right-clicking blank space next to existing toolbars (see above) or through the menu bar under View > Toolbars or View > Panels. They can also be repositioned by clicking and dragging anywhere in the panel frame or from the handle to the left of each toolbar. Each element can be either docked (snappable areas will be highlighted in blue as you drag around the window) or undocked/freely positioned. If you ever need to reset the interface to its default settings, you can do so under Preferences > System > Settings > Reset user interface to default settings.
 
@@ -80,7 +80,7 @@ The data we get from the tileserver is **raster data**. This means the area show
 
 ### Raster Layers from TIFF
 
-Another way to add raster data is from a single .tif file stored locally. We'll use a scanned map that was **georectified** through the New York Public Library's Map Warper program. We'll talk more about what that means in Week 4, for now it's important to know that another mapmaker has assigned a specific geographic location and other properties to the scanned image to ensure conformity with the digital model of geographic space used inside the QGIS environment.
+Another way to add raster data is from a single .tif file stored locally. We'll use a scanned map that was **georectified** through the New York Public Library's Map Warper program. We'll talk more about what that means in Tutorial 4, for now it's important to know that another mapmaker has assigned a specific geographic location and other properties to the scanned image to ensure conformity with the digital model of geographic space used inside the QGIS environment.
 
 To add the file to your map, navigate to `Project Home/Shared_Data/raster` in the Browser Panel and drag `nypl_map-warper-harlem-river.tif` into your layers panel. Notice that the icon to the left of the file is the same as our tile service layer, indicating both are raster.
 
@@ -213,7 +213,8 @@ Pan around the map to find some places where the present-day map layers differ f
 
 Remember to **Save** your project when finished.
 
-**Deliverable: Please take a screenshot of your finished map and upload it to Google Drive under Deliverables/Tutorial 1.**
+### Deliverable: 
+Please take a screenshot of your finished map and upload it to Canvas under the tutorial 1 assignment.
 
 ---
 
