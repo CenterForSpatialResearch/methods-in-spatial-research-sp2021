@@ -19,7 +19,7 @@ nf2337 (at) columbia.edu
 
 ## Description
 
-This course provides an introduction on the critical use of geographic information systems (GIS) and the use of spatial methods for urban humanities research.  
+This course provides an introduction to the critical use of geographic information systems (GIS) and the use of spatial methods for urban humanities research.  
 
 Maps and geographic analysis are key tools for interpreting the built environment and the social conditions it contains. GIS methods allow for the analysis of geographic features together with attributes (environmental, social, demographic, political) of those places. The thoughtful use of spatial data can reveal previously unseen patterns, changing the way we see and engage with our world. However, maps are never just representations, they are nearly always active agents in shaping the worlds they describe. With this in mind, students will be introduced to a range of approaches for creating and manipulating spatial data with a focus on the forms of authorship, design, subjectivity embedded in spatial data and its uses.  
 
@@ -75,7 +75,7 @@ what is GIS + spatial data types (slides from NJIT)
 <!-- class plan:
 - discussion of readings in small groups + together
 - tutorial issues/troubleshooting
-- lecture on projections  
+- lecture on projections (add stuff about cassini ) 
 - finding spatial data share resources -->
 #### Readings
 
@@ -91,7 +91,7 @@ class plan
 discussion of project examples in small groups. provided examples.
 reading discussion
 pin up of inadvertent use assignment -->
-#### Assignment 2 due – Inadvertent Use
+#### Assignment 1 due – Inadvertent Use
 
 #### Readings
 
@@ -105,7 +105,7 @@ Williams, Sarah, Jacqueline Klopp, Daniel Orwa, Peter Waiganjo, and Adam White. 
 
 ### Week 4 | Making Data from Archives
 
-#### Assignment 3 due – Mapping Observations
+#### Assignment 2 due – Mapping Observations
 
 #### Readings
 
@@ -118,7 +118,7 @@ Baics, Gergely, and Leah Meisterlin. “Zoning Before Zoning: Land Use and Densi
 
 ### Week 5 | Making Data from Satellites / Spatial Analysis
 
-#### Assignment 4 due – Selective Digitization
+#### Assignment 3 due – Selective Digitization
 
 #### Readings
 
@@ -145,9 +145,9 @@ Skills-focused weekly tutorials are required and will expose you to multiple met
 
 Weekly map assignments will allow you to apply the skills acquired via tutorials and begin to experiment with creative applications of spatial methods. Five map assignments will be completed over the course of the six week course and as such are intended to be limited in scope; experimental; and geared towards learning and creative engagement rather than demonstrating advanced skills. Assignment descriptions and associated assessment rubrics will be distributed each week. 
 
-For the final course session you will assemble your map assignments into a single document/portfolio/'Atlas of Exploration.'
+For the final course session you will assemble your map assignments into a single document/portfolio/atlas.
 
-Final assessment will be:
+Final assessment will be based on:
 Attendance, engaged participation & discussion questions 20%
 Weekly tutorial completion 30%
 Weekly map assignments & compiled/revised map portfolio 50% (10% each)
@@ -177,7 +177,7 @@ This is a discussion and collaborative-critique based course. All students and t
 
 GSAPP is committed to full inclusion of all students. Especially in online formats. Students needing any form of accommodation due to a disability should check in with [Disability Services (DS)](https://health.columbia.edu/content/disability-services) and speak with me at the beginning of the semester to provide the accommodations letter from DS. Alternatively you may ask your advisor to consult with me regarding your accommodations. 
 
-## Classroom Environment & Device policy
+## Classroom Environment & Device Policy
 
 To help further class discussion and collaboration in the online format of this course you are: expected to arrive to the scheduled zoom meeting on time; encouraged to participate with your video camera (if technical or other issues prevent this please speak with me); and keep your audio muted when you are not actively speaking.
 
@@ -187,27 +187,13 @@ During scheduled class time you will be expected to use your computer exclusivel
 
 The online format of this course means that minimizing/resisting external distractions from non-class related computing (social media usage, email, other course work, online shopping etc) is challenging – but a shared responsibility of all members of the class. For more on computation and attention please see [Tim Wu’s Attention Merchants: The Epic Scramble to get Inside our Heads](https://www.penguinrandomhouse.com/books/234876/the-attention-merchants-by-tim-wu/)
 
+## Email Policy
+Students should not rely on or expect an immediate response to questions sent via email to the instructor. Please begin assignments with enough time to attend office hours or ask a question several days before the assignment is due.
 
-<!-- 
-### Assignment 1 - Map critique
+Learning how to troubleshoot technical issues and locate relevant resources is crucial in your long-term success with GIS methods. With this in mind emails with technical questions must at a minimum contain the following:
 
-Annotated bibliography of 
-Each annotation should answer at the minimum:
+- a clear description of what you are trying to do, and what the problem is
+- a summary of the steps you have already taken to address the issue
+- screenshots (where applicable) that help to explain the problem
+- a link to at least one website you consulted for assistance with the issue before writing the email.The [QGIS docs](https://docs.qgis.org/3.10/en/docs/index.html) is a good starting place as is [GIS Stack Exchange](https://gis.stackexchange.com/).
 
--	What is the project investigating? 
--	How do the authors use maps to examine the topic? 
--	What methods are being used?
-
-ORR could be a map comparison? map response essay? 
-
-### Assignment 2 – inadvertent use
-
-Find two spatial datasets for the geography of your choosing (place you have lived or spent a significant amount of time that isn’t NYC). Create a map which uses these two datasets together to make an argument that was likely not intended by the original creators of the datasets.
-
-### Assignment 3 – Selective Digitization
-
-Find a scanned paper map of your “place.” Georeference it. Digitize one to three types of features from the map and create a new map which tells a different story than the original. 
-
-### Assignment 4 – Mapping Observations
-### Assignment 5 - Mapping Remotely
--->
