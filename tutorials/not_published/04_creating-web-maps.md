@@ -1,8 +1,14 @@
+---
+layout: page
+title: Tutorial 6 - optional
+order: 9
+---
 
-<!--  -->
-We are going to be making web maps using [Mapbox GL JS](https://www.mapbox.com/mapbox-gl-js/api/). This is a recent javascript library that uses [WebGL](https://en.wikipedia.org/wiki/WebGL) to render interactive maps from vector tiles (as opposed to raster tiles) created with [Mapbox Studio](https://www.mapbox.com/mapbox-studio/). Data for these maps comes from [OpenStreetMap](https://www.openstreetmap.org).
+# Making a Basic Webmap 
 
-This tutorial will introduce you to the basic setup and what it feels like to develop for a web browser. This will be a very different approach than our experience with QGIS, and it is much more prone to error given the number of new concepts and syntaxes involved. Brackets, commas, quotes, and colons... stay with it—it's ok if you don't understand what everything is doing at first.
+This tutorial is an introduction to making web maps using [Mapbox GL JS](https://www.mapbox.com/mapbox-gl-js/api/). This is a recent javascript library that uses [WebGL](https://en.wikipedia.org/wiki/WebGL) to render interactive maps from vector tiles (as opposed to raster tiles) created with [Mapbox Studio](https://www.mapbox.com/mapbox-studio/). Data for these maps comes from [OpenStreetMap](https://www.openstreetmap.org).
+
+This tutorial will introduce you to the basic setup and what it feels like to develop for a web browser, how to add datasets, and then how to make those datasets interactive. This will be a very different approach than your experience thus far in QGIS, and it is much more prone to error given the number of new concepts and syntaxes involved. Brackets, commas, quotes, and colons... stay with it—it's ok if you don't understand what everything is doing at first.
 
 
 ## Setup Prerequisites
@@ -617,24 +623,24 @@ Adapted from tutorial written by Brian House for Mapping for Architecture, Urban
 
 
 [DIRECTORY]: /methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_01.png
-[HELLOWORLD]: methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_02.png
-[WORLDMAP]: methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_03.png
-[3DMAP]: methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_04.png
-[CONTROLS]: methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_05.png
-[GEOLOCATE]: methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_06.png
-[COORDINATES]: methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_07.png
-[INFO]: methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_08.png
-[MARKER]: methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_09.png
-[IMAGE]: methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_10.png
-[MULTI]: methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_11.png
-[TOKEN]: methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_2-1.png
-[TREES]: methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_12.png
-[BUILDINGS]: methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_13.png
-[NYPL]: methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_14.png
-[NYPL-1879]: methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_15.png
-[ORDERED]: methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_16.png
-[EXTENTS]:methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_17.png
-[NYPL2]: methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_18.png
-[REPO]:methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_19.png
-[FOLDER]: methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_20.png
-[WEB]: methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_21.png
+[HELLOWORLD]: /methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_02.png
+[WORLDMAP]: /methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_03.png
+[3DMAP]: /methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_04.png
+[CONTROLS]: /methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_05.png
+[GEOLOCATE]: /methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_06.png
+[COORDINATES]: /methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_07.png
+[INFO]: /methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_08.png
+[MARKER]: /methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_09.png
+[IMAGE]: /methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_10.png
+[MULTI]: /methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_11.png
+[TOKEN]: /methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_2-1.png
+[TREES]: /methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_12.png
+[BUILDINGS]: /methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_13.png
+[NYPL]: /methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_14.png
+[NYPL-1879]: /methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_15.png
+[ORDERED]: /methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_16.png
+[EXTENTS]:/methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_17.png
+[NYPL2]: /methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_18.png
+[REPO]: /methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_19.png
+[FOLDER]: /methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_20.png
+[WEB]: /methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_21.png

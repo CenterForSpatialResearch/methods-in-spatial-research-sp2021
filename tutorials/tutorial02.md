@@ -5,6 +5,7 @@ order: 5
 ---
 
 # Drawing Things Together – Projections and Joins in QGIS
+
 ## Objectives
 
 This tutorial will continue our introduction to QGIS and introduce specific methods for 'drawing together' different datasets within our map environment. We'll first cover how to import a list of points and associated attributes from a .csv file. In doing this, we'll review how **projections** are handled in QGIS, and specifically how to reproject data into a consistent **coordinate reference system** across your project. We'll then review two methods for making connections across datasets - the **table join** and **spatial join**. Finally, you'll learn to use the **print layout** feature to annotate and export maps as PDFs and images.
@@ -95,10 +96,11 @@ Experiment with and explore other layout options and elements – just remember
 
 When you're satisfied, you can **export** your layout as an Image, SVG, or PDF by using Layout > Export as \(Type\) from the Menu Bar or by the corresponding buttons on the Layout Toolbar. If you often work in other graphic software like Illustrator or Photoshop, consider how you might use the Print Layout to export separate layers or elements to edit and compose elsewhere.
 
-**Deliverable: Save your map layout as a PDF and upload it to the Deliverables folder**
+### Deliverable: 
+Save your map layout as a PDF and upload it to Canvas for tutorial 2
+
 
 ---
 
-Tutorial by Carsten Rodin, Spring 2020.
-
+Tutorial by Carsten Rodin, Spring 2020.  
 Adapted from materials from [Mapping for the Urban Humanities](https://github.com/CenterForSpatialResearch/mapping_for_the_urban_humanities), taught by Bernadette Baird-Zars, Eric Glass & Leah Meisterlin, Summer 2019.

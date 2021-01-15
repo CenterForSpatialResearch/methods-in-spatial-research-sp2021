@@ -13,10 +13,11 @@ Hans Haacke *Shapolsky et al. Manhattan Real Estate Holdings, a Real-Time Social
 
 Dare Brawley, Assistant Director, Center for Spatial Research  
 dare.brawley (at) columbia.edu  
+office hours by appointment 
 
 TA: Nadine Fattaleh  
 nf2337 (at) columbia.edu  
-
+office hours by appointment 
 ## Description
 
 This course provides an introduction to the critical use of geographic information systems (GIS) and the use of spatial methods for urban humanities research.  
@@ -34,7 +35,7 @@ After completing the course participants will:
 - Understand GIS spatial data types and the kinds of analysis that are possible with each 
 - Create new spatial datasets from field observation and participatory sensing
 - Create new spatial datasets from archival sources
-- Transform archival sources into spatial datasets
+- Access and use multispectral satellite imagery
 - Acquire fluency with visual design concepts central to cartographic representations
 
 ## Course Overview
@@ -43,13 +44,15 @@ After completing the course participants will:
 | ----------- | ----------- |
 | 1 | 1/15 |  Introduction to Critical GIS + Spatial Data Types |  |   |
 | 2 | 1/22 |  Cartographic Projections + Mapping Existing Datasets | [Tutorial 1](/methods-in-spatial-research-sp2021/tutorials/tutorial01/) |    |
-| 3 | 1/29 |   Making Data From Observation & Sensing | [Tutorial 2a](/methods-in-spatial-research-sp2021/tutorials/tutorial02/) & Tutorial 2b  |  [Assignment 1](/methods-in-spatial-research-sp2021/assignments/assignment01/)  |
+| 3 | 1/29 |   Making Data From Observation & Sensing | [Tutorial 2](/methods-in-spatial-research-sp2021/tutorials/tutorial02/) |  [Assignment 1](/methods-in-spatial-research-sp2021/assignments/assignment01/)  |
 | 4 | 2/5 | Making Data from Archives | [Tutorial 3](/methods-in-spatial-research-sp2021/tutorials/tutorial03/) |  Assignment 2 |
-| 5 | 2/12 |  Making Data from Satellites / Intro to Spatial Analysis | [Tutorial 4](/methods-in-spatial-research-sp2021/tutorials/tutorial04/) |  Assignment 3 |
-| 6 | 2/19 |  Maps & Narrative / Portfolio Presentations | Tutorial 5  |  Assignment 4 & Assembled Portfolio  |
+| 5 | 2/12 |  Making Data from Satellites | [Tutorial 4](/methods-in-spatial-research-sp2021/tutorials/tutorial04/) |  Assignment 3 |
+| 6 | 2/19 |  Maps & Narrative / Portfolio Presentations | [Tutorial 5](/methods-in-spatial-research-sp2021/tutorials/tutorial05/)  |  Assignment 4 & Assembled Portfolio  |
 
 
 ## Weekly Schedule, Readings, & Assignments
+All course tutorials and assignments will be posted [here](https://centerforspatialresearch.github.io/methods-in-spatial-research-sp2021/) on the course website.
+All readings will be posted on the course [Google Drive folder](https://drive.google.com/drive/folders/1nOxjAfenbfmzo7-m6WHVHfGW7fsBt39r?usp=sharing) or made available via hyperlink below. 
 
 ### Week 1 | Introduction to Critical GIS + Spatial Data Types
 #### In class
@@ -84,6 +87,7 @@ Corner, James. “The Agency of Mapping.” 2014.
 Couclelis, Helen. “People Manipulate Objects (but Cultivate Fields): Beyond the Raster-Vector Debate in GIS.” 1992.
 
 *Review projects/precedent examples page. Pick out two-three examples each week to review thoroughly on your own.*
+Optional: Rankin, William. "Introduction Territory and the Mapping Sciences" in *After The Map: Cartography, Navication, and the Transformation of Territory in the Twentieth Century*. Chicago: University of Chicago Press. 2016. 
 
 ### Week 3 | Making Data From Observation & Sensing
 <!-- 
@@ -116,7 +120,7 @@ Baics, Gergely, and Leah Meisterlin. “Zoning Before Zoning: Land Use and Densi
 *Additional text to be assigned based on course composition*
 
 
-### Week 5 | Making Data from Satellites / Spatial Analysis
+### Week 5 | Making Data from Satellites
 
 #### Assignment 3 due – Selective Digitization
 
@@ -133,13 +137,13 @@ Desimini, Jill, and Charles Waldheim. “Introduction: Projecting the Landscape 
 
 #### Readings
 
-Film: *In Plain Sight.* by Diller Scofidio + Renfro, Laura Kurgan, Robert Gerard Pietrusko with Columbia Center for Spatial Research at the 2018 U.S. Pavilion.
+Film: [*In Plain Sight.* by Diller Scofidio + Renfro, Laura Kurgan, Robert Gerard Pietrusko with Columbia Center for Spatial Research at the 2018 U.S. Pavilion.](https://dsrny.com/project/in-plain-sight)
 
 Mortenbock & Mooshammer. *Informal Market Worlds* [Selections]
 
 ## Requirements
 
-Attendance at all six class sessions is required. You are expected to give engaged and generous participation in class discussions and in critique workshops with your peers. To help prepare reading conversations, each week you will post/pose one discussion question to the class via Canvas. 
+Attendance at all six class sessions is required. You are expected to give engaged and generous participation in class discussions and in critique workshops with your peers. To help prepare reading conversations, each week you will post/pose one discussion question to the class via Canvas by 8am each Friday. 
 
 Skills-focused weekly tutorials are required and will expose you to multiple methods for engaging with spatial data. Tutorials include step by step instructions and are graded on completion (not accuracy).
 
@@ -158,6 +162,10 @@ Geographic Information Systems is not a software. As such this course will not s
 Tutorial resources will be primarily provided for QGIS 3.10. This is an open source software program for geographic analysis that runs on Windows, Mac, and Linux operating systems. All students will be expected to download and install QGIS 3.10. Documentation for QGIS is available [here](https://docs.qgis.org/3.10/en/docs/index.html), and a training manual with good basic tutorials is available [here](https://docs.qgis.org/3.10/en/docs/training_manual/).  
 Information regarding other GIS softwares will be provided in course resources.  
 Knowledge of design and layout programs (Adobe Illustrator, and InDesign) may be useful to you but is not required.  
+
+## Course google drive folder
+
+All readings and course data will be available via Google Drive [here](https://drive.google.com/drive/folders/1nOxjAfenbfmzo7-m6WHVHfGW7fsBt39r?usp=sharing).
 
 ## Academic Integrity
 
