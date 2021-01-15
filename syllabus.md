@@ -87,7 +87,7 @@ Corner, James. “The Agency of Mapping.” 2014.
 Couclelis, Helen. “People Manipulate Objects (but Cultivate Fields): Beyond the Raster-Vector Debate in GIS.” 1992.
 
 *Review projects/precedent examples page. Pick out two-three examples each week to review thoroughly on your own.*
-Optional: Rankin, William. "Introduction Territory and the Mapping Sciences" in *After The Map: Cartography, Navication, and the Transformation of Territory in the Twentieth Century*. Chicago: University of Chicago Press. 2016. 
+Optional: Rankin, William. "Introduction Territory and the Mapping Sciences" in *After The Map: Cartography, Navigation, and the Transformation of Territory in the Twentieth Century*. Chicago: University of Chicago Press. 2016. 
 
 ### Week 3 | Making Data From Observation & Sensing
 <!-- 

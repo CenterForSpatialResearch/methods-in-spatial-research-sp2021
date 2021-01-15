@@ -34,7 +34,8 @@ Find two digital spatial datasets about a place (that is **not** New York City) 
   - legend
   - scale bar
   - north arrow (your map doesn't need to have north be pointing vertically...)
-  - data source citations
+  - citations for all data sources 
+  - projection used
   - your name
 
 ### Submission
