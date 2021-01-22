@@ -96,7 +96,7 @@ class plan
 discussion of project examples in small groups. provided examples.
 reading discussion
 pin up of inadvertent use assignment -->
-#### Assignment 1 due – Inadvertent Use
+#### Assignment 1 due – Intentional Misuse
 
 #### Readings
 

@@ -4,7 +4,7 @@ title: Assignment 1
 order: 9
 ---
 
-## Critical Cartography Through Inadvertent Use
+## Critical Cartography Through Intentional Re/Misuse
 
 ### Due: 1/29
 
@@ -20,6 +20,13 @@ Find two digital spatial datasets about a place (that is **not** New York City) 
 
 - The place you select must be somewhere that you have lived and/or spent a significant enough amount of time to know something about lived experience there.
 
+- I suggest working with vector datasets for this assignment (but not required). When looking for vector geospatial data you should be looking for one of these file types:
+  - shapefile
+  - geojson
+  - KML/KMZ
+  - a csv with latitude and longitude coordinates (review tutorial 2 for how to open something like this)
+- if you plan to use raster data you should be looking for something with a '.tif' format or that is called a 'geoTIFF' or 'geoJPG'
+
 - Investigate the origins of your two datasets. Some starting points to cover (at a minimum): who made the data? what is/was the intended use(s) the data? when was the data made? how was it made? 
 
 - Research the appropriate projected coordinate reference system to use for your chosen place
@@ -28,6 +35,7 @@ Find two digital spatial datasets about a place (that is **not** New York City) 
 
 ### Format
 
+- look for data
 - Your final map must be a designed map composition on a single 16:9 slide. You are encouraged to select one of the map examples discussed on 1/15 and imitate its graphic style. 
 - Your designed map composition must include:
   - title
