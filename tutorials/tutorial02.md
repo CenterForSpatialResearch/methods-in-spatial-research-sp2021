@@ -60,13 +60,31 @@ Note that the resulting layer is only temporary - if you close and reopen the pr
 
 ## Spatial Joins
 
-A **spatial join** works in a similar way except the relationship between the two tables is defined spatially. Start by adding `nyc_harlemriverstreetsbuffer` layer from Shared_Data/vector - don't worry about changing symbology for now.
+A **spatial join** works in a similar way except the relationship between the two tables is defined spatially.  
 
-In the Procesing Toolbox, find "Join Attributes By Location (Summary)" in the list and launch the tool. Here we'll set the buffered streets layer as the Target ("Input Layer") and the 311 complaints as the Join Layer. Instead of field names, the tool asks us for a "Geometric Predicate" - this is just the spatial relationship we're going to look for in making the connection between the two datasets. Choose "intersects" for now. The tool will let you specify fields to summarize, and the method you want to use (e.g. average, sum etc. under "Summaries to calculate"). Leave both of these blank. Click Run.
+To learn this basic (but powerful!) spatial analysis method we will perform a spatial join between the point locations of 311 complaints and a representation of streets in Harlem to see which street segments have the most complaints.  
+
+In other words in a spatial join we are using the geometric and geographic relationships between two data layers to associate attribute information from one dataset with the attribute table for the other. The results of the spatial join are saved as a new dataset.
+
+Start by adding `nyc_harlemriverstreetsbuffer` layer from Shared_Data/vector - don't worry about changing symbology for now.  
+
+In the Procesing Toolbox, find "Join Attributes By Location (Summary)" in the list and launch the tool. Here we'll set the buffered streets layer as the Target ("Input Layer") and the 311 complaints as the Join Layer. In other words we are going to associate new information with the attribute table of the target layer (the streets) based on the join layer (the 311 complaints). Specifically we are trying to find out: 
+- how many 311 complaints are in each street segment?
+
+The tool asks us for a "Geometric Predicate" - this is just the spatial relationship we're going to look for in making the connection between the two datasets. Choose "intersects" for now. 
+
+The tool will let you specify fields to summarize, and the method you want to use (e.g. average, sum etc. under "Summaries to calculate"). If you leave both blank the tool will calculate each summary method on every field from the join layer (giving you a lot of fields in your attribute table!). 
+
+Under the fields to summarize click on the button with `...` and select `complaint type` then click okay and return to the Join Attributes by Location Summary tool. 
+
+For the summaries to calculate again click on the button with `...` and select `count` (remember we want to know how many complaints are in each street segment, counting them up will give us this value). Click okay and return to the Join Attributes by Location Summary tool. 
+
+Next to the joined layer field again select the `...` and save the output of the spatial join in your folder for this course, give it a reasonable and memorable file name. Then click `Run`.
 
 Spatial joins are somewhat computationally intensive, so take a break while it runs. This might be a good time to read about the [Squirrel Census](https://www.thesquirrelcensus.com) if you haven't already.
 
-Once you have your result, try to set up the layer symbology so that it reveals the number of complaints per street through graduated color.
+Once you have your result, try to set up the layer symbology so that it reveals the number of complaints per street through graduated color. 
+(Symbolizing by graduated colors was covered in tutorial 1. Briefly: for the new join layer you created look in the layer properties menu  > symbology > graduated color and then select the new `complaint type_count` field. For the `mode` select `Natural breaks jenks` then click `classify` and then click okay.)
 
 ![table join visualized](/methods-in-spatial-research-sp2021/tutorials/assets/qgis_spatial-join.png)
 

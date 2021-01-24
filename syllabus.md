@@ -13,11 +13,12 @@ Hans Haacke *Shapolsky et al. Manhattan Real Estate Holdings, a Real-Time Social
 
 Dare Brawley, Assistant Director, Center for Spatial Research  
 dare.brawley (at) columbia.edu  
-office hours by appointment 
+office hours by appointment  
 
 TA: Nadine Fattaleh  
 nf2337 (at) columbia.edu  
-office hours by appointment 
+office hours: Monday 9-11 (email for an appointment)  
+
 ## Description
 
 This course provides an introduction to the critical use of geographic information systems (GIS) and the use of spatial methods for urban humanities research.  
