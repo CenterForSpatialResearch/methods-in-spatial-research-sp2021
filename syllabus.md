@@ -13,7 +13,7 @@ Hans Haacke *Shapolsky et al. Manhattan Real Estate Holdings, a Real-Time Social
 
 Dare Brawley, Assistant Director, Center for Spatial Research  
 dare.brawley (at) columbia.edu  
-office hours by appointment  
+office hours; M,T, 2-3; Th 1-2 (sign up [here](https://calendly.com/db2672/15min))
 
 TA: Nadine Fattaleh  
 nf2337 (at) columbia.edu  
