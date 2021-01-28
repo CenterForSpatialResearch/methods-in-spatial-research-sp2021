@@ -100,7 +100,7 @@ In QGIS, the Print Layout functionality is contained within a separate window fr
 
 Here you can also use Tooltips to learn more about elements of the interface. Or visit the [QGIS docs here](https://docs.qgis.org/3.10/en/docs/training_manual/map_composer/map_composer.html) for an extensive description of this area of the program.
 
-If you would like to change the page/paper size right click anywhere on the blank canvas to open the `page properties`. Page Size options should appear in the Item Properties menu, and you can then set a new page size and/or orientation.
+If you would like to change the page/paper size right click anywhere on the blank canvas to open the `page properties`. Page Size options should appear in the Item Properties menu at the right hand side, and you can then set a new page size and/or orientation.
 
 Use the "Add Map" button or Add Item > Add Map on the Menu Bar to add a map view to your layout. With the tool selected, click and drag over the part of the layout where you want the map to appear. Notice that the appearance of the map, including layer visibility and symbology options, have the same appearance as in the Map View in the main window.
 

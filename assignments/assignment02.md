@@ -12,15 +12,42 @@ order: 9
 
 Create a vector dataset of point locations through field work using the GPS receiver of a cell phone. The points should represent the locations of some *thing* (object, phenomena, landmark) that you encounter in the immediate surroundings of your everyday life. Design a map of the dataset you created.
 
+<!-- 
+
 ### How
 
-This week There is no deliverable from the Tutorial 
+Begin by reading through Tutorial 3 which walks you through how to create an account, and set up a new 'form' or data collection tool using Epicollect. Unlike previous weeks there is not a separate deliverable for tutorial 3, instead you will need to use it as a resource for creating your own data gathering instrument. 
 
-Begin by reading through Tutorial 3 which walks you through how to create 
+After you have a grasp on the process of setting up a form to collect data then:
+
 - Decide on what you would like to collect data about
 - Write out what information you would like to collect about each point location (these will become the fields in the attribute table of the new dataset you are creating)
 - Design a form to collect point locations and each of the attribute fields you are interested in using the Epicollect website and app described in [Tutorial 3](/methods-in-spatial-research-sp2021/tutorials/tutorial03/). 
+- Collect your data
+- Export it as a CSV file, and create a map of it in QGIS
 
+### Requirements
+
+- Collect at least fifteen data points, or as many as is necessary to convey what you hope to in your map.
+- Locate base layers to provide a background and context for your collected data (if you are unable to locate any existing datasets use a web service base map)
+add links to more than just stamen
+- Design a map that conveys graphically/visually some aspect of the experience of being in the midst of the phenomena you were collecting
+
+
+
+### Format
+
+- Your final map must be a designed map composition on a single slide with a 16:9 aspect ratio (1920x1080 pixels). You are encouraged to select one of the map examples discussed thus far during class (either in [lecture slides](https://drive.google.com/open?id=1tQHHcbWB65EVjiqt-9ajyd5sVMHPuzls&authuser=db2672%40columbia.edu&usp=drive_fs) or during a [group exercise](https://drive.google.com/open?id=1f39yOn8mfryxkJdiHvaqJ3zQGA8elu47&authuser=db2672%40columbia.edu&usp=drive_fs)) and imitate its graphic style. 
+- Your designed map composition must include:
+  - title
+  - legend
+  - scale bar
+  - north arrow (your map doesn't need to have north pointing vertically...)
+  - citations for all data sources  
+  - projection used
+  - your name 
+  
+-->
 
 <!-- 
 
