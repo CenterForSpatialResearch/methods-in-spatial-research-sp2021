@@ -98,7 +98,9 @@ When you are satisfied with your symbology choices and are ready to export a map
 
 In QGIS, the Print Layout functionality is contained within a separate window from the main interface. Like the main window, you'll notice a Menu Bar, Status Bar, some Toolbars and Panels (on the right instead of the left). The biggest difference is that the Map View has been replaced by the **Layout View**, which is where you'll compose your different layout elements to create your finished map.
 
-Here you can also use Tooltips to learn more about elements of the interface.
+Here you can also use Tooltips to learn more about elements of the interface. Or visit the [QGIS docs here](https://docs.qgis.org/3.10/en/docs/training_manual/map_composer/map_composer.html) for an extensive description of this area of the program.
+
+If you would like to change the page/paper size right click anywhere on the blank canvas to open the `page properties`. Page Size options should appear in the Item Properties menu, and you can then set a new page size and/or orientation.
 
 Use the "Add Map" button or Add Item > Add Map on the Menu Bar to add a map view to your layout. With the tool selected, click and drag over the part of the layout where you want the map to appear. Notice that the appearance of the map, including layer visibility and symbology options, have the same appearance as in the Map View in the main window.
 
@@ -108,14 +110,10 @@ Next, use the Add Legend button (or menu item) to create a Legend. Again, click 
 
 ![table join visualized](/methods-in-spatial-research-sp2021/tutorials/assets/qgis_layout.png)
 
-Once the layout is created, make sure it's selected and open the Item Properties tab panel. Here you can apply a title, change which map view the legend applies to, and control the display and order of the map layers listed. 
-
-If you would like to change the page/paper size right click anywhere on the blank canvas to open the `page properties`. Page Size options should appear in the Item Properties menu, and you can then set a new page size and/or orientation.
-
-Under Legend Items, note that unchecking the "Auto update" box will allow you to control the layer names and visibility independently of what's shown in the Layer Panel in the main window. This is useful if you want to hide layers in the legend or rename them without changing the underlying data.
+Once the layout is created, make sure it's selected and open the Item Properties tab panel. Here you can apply a title, change which map view the legend applies to, and control the display and order of the map layers listed. Under Legend Items, note that unchecking the "Auto update" box will allow you to control the layer names and visibility independently of what's shown in the Layer Panel in the main window. This is useful if you want to hide layers in the legend or rename them without changing the underlying data.
 
 Experiment with and explore other layout options and elements – just remember to save often! Try adding a scale bar, an image, or descriptive text. Using the Layout, Item Properties and Guides panel tabs, explore other ways you can adjust and manipulate your layout and each of the different elements.
-
+ 
 When you're satisfied, you can **export** your layout as an Image, SVG, or PDF by using Layout > Export as \(Type\) from the Menu Bar or by the corresponding buttons on the Layout Toolbar. If you often work in other graphic software like Illustrator or Photoshop, consider how you might use the Print Layout to export separate layers or elements to edit and compose elsewhere.
 
 ### Deliverable: 
