@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Assignment 1
+title: Assignment 2
 order: 9
 ---
 
-## Critical Cartography Through Intentional Re/Misuse
+## Collecting & Mapping
 
-### Due: 1/29
-
+### Due: 2/5
+<!-- 
 
 *"Data are always collected for a specific purpose, by a combination of people, technology, money, commerce, and government."* (Kurgan 2013, 35)
 
@@ -58,4 +58,4 @@ For sources for spatial datasets see:
 - Local and State Government operated Open Data Portals
 - University Mapping and/or Research Centers. For example:
   - [Eviction Lab. "Eviction Filing Rate & Evictions Rate." Princeton University](https://evictionlab.org/map/)
-  - [Beirut Urban Lab, "Beirut Built Environment Database"](https://www.beiruturbanlab.com/en/Details/561)
+  - [Beirut Urban Lab, "Beirut Built Environment Database"](https://www.beiruturbanlab.com/en/Details/561) -->
