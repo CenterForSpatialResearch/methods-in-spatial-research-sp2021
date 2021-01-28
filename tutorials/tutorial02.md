@@ -108,7 +108,11 @@ Next, use the Add Legend button (or menu item) to create a Legend. Again, click 
 
 ![table join visualized](/methods-in-spatial-research-sp2021/tutorials/assets/qgis_layout.png)
 
-Once the layout is created, make sure it's selected and open the Item Properties tab panel. Here you can apply a title, change which map view the legend applies to, and control the display and order of the map layers listed. Under Legend Items, note that unchecking the "Auto update" box will allow you to control the layer names and visibility independently of what's shown in the Layer Panel in the main window. This is useful if you want to hide layers in the legend or rename them without changing the underlying data.
+Once the layout is created, make sure it's selected and open the Item Properties tab panel. Here you can apply a title, change which map view the legend applies to, and control the display and order of the map layers listed. 
+
+If you would like to change the page/paper size right click anywhere on the blank canvas to open the `page properties`. Page Size options should appear in the Item Properties menu, and you can then set a new page size and/or orientation.
+
+Under Legend Items, note that unchecking the "Auto update" box will allow you to control the layer names and visibility independently of what's shown in the Layer Panel in the main window. This is useful if you want to hide layers in the legend or rename them without changing the underlying data.
 
 Experiment with and explore other layout options and elements – just remember to save often! Try adding a scale bar, an image, or descriptive text. Using the Layout, Item Properties and Guides panel tabs, explore other ways you can adjust and manipulate your layout and each of the different elements.
 

@@ -7,6 +7,21 @@ order: 9
 ## Collecting & Mapping
 
 ### Due: 2/5
+
+### What
+
+Create a vector dataset of point locations through field work using the GPS receiver of a cell phone. The points should represent the locations of some *thing* (object, phenomena, landmark) that you encounter in the immediate surroundings of your everyday life. Design a map of the dataset you created.
+
+### How
+
+This week There is no deliverable from the Tutorial 
+
+Begin by reading through Tutorial 3 which walks you through how to create 
+- Decide on what you would like to collect data about
+- Write out what information you would like to collect about each point location (these will become the fields in the attribute table of the new dataset you are creating)
+- Design a form to collect point locations and each of the attribute fields you are interested in using the Epicollect website and app described in [Tutorial 3](/methods-in-spatial-research-sp2021/tutorials/tutorial03/). 
+
+
 <!-- 
 
 *"Data are always collected for a specific purpose, by a combination of people, technology, money, commerce, and government."* (Kurgan 2013, 35)
