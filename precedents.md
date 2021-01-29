@@ -43,7 +43,7 @@ order: 2
 
 - [Wood, Jeremy. *Data Cloud*. 2008/2009.
 Beatrixpark, Amsterdam. Site specific artwork.](http://www.jeremywood.net/artworks/data-cloud.html)
-    - see also [conversation with Jeremy Wood by Tracey P. Lauriault: Lauriault, Tracey P., and Jeremy Wood. “GPS Tracings – Personal Cartographies.” Cartographic Journal 46, no. 4 (November 2009): 360–65. https://doi.org/10.1179/000870409X12549997389628.](https://web-a-ebscohost-com.ezproxy.cul.columbia.edu/ehost/detail/detail?vid=0&sid=d9bf922f-a53d-4197-a9d3-dc0e8e32a5df%40sessionmgr4006&bdata=JnNpdGU9ZWhvc3QtbGl2ZSZzY29wZT1zaXRl#AN=47243240&db=a9h)
+    - see also [conversation with Jeremy Wood by Tracey P. Lauriault: Lauriault, Tracey P., and Jeremy Wood. “GPS Tracings – Personal Cartographies.” Cartographic Journal 46, no. 4 (November 2009): 360–65. https://doi.org/10.1179/000870409X12549997389628.](http://rd8hp6du2b.search.serialssolutions.com/?ctx_ver=Z39.88-2004&ctx_enc=info%3Aofi%2Fenc%3AUTF-8&rfr_id=info%3Asid%2Fsummon.serialssolutions.com&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft.genre=article&rft.atitle=GPS+Tracings+-+Personal+Cartographies&rft.jtitle=Cartographic+journal&rft.au=Lauriault%2C+Tracey+P&rft.au=Wood%2C+Jeremy&rft.date=2009-11-01&rft.pub=Taylor+%26+Francis&rft.issn=0008-7041&rft.eissn=1743-2774&rft.volume=46&rft.issue=4&rft.spage=360&rft.epage=365&rft_id=info:doi/10.1179%2F000870409X12549997389628&rft.externalDocID=11703670)
 
 - [Fawaz, Mona, Dounia Salamé and Isabela Serhan. "Seeing the City as a Delivery Driver: Practices of Syrian Men in Beirut, Lebanon." in *Refugees as City Makers* eds. Fawaz, Mona, Ahmad Gharbieh, Mona Harb, and Dounia Salamé. Beirut: Lebanon. 2018.](https://www.aub.edu.lb/ifi/Documents/publications/research_reports/2018-2019/20180910_refugees_as_city_makers.pdf) **See page 62 of PDF**.
 
@@ -51,12 +51,23 @@ Beatrixpark, Amsterdam. Site specific artwork.](http://www.jeremywood.net/artwor
 
 - [Prado-Núñez, Viviana. “Boundaries and Border Crossings: On Public Spanish in Washington Heights,” Conflict Urbanism: Language Justice.](http://language-ecologies.c4sr.columbia.edu/seminar/Case-Studies/WashingtonHeights/index.html) 
 
-- Kim, Annette. “Mapping the Unmapped: Mixed Use Sidewalk Spaces,” Sidewalk City: Remapping Public Space in Ho Chi Min City. University of Chicago Press, 2015 pp. 100-169. See also online: [https://slab.today/maps-2019/](https://slab.today/maps-2019/)
+- Kim, Annette. “Mapping the Unmapped: Mixed Use Sidewalk Spaces,” Sidewalk City: Remapping Public Space in Ho Chi Min City. University of Chicago Press, 2015 pp. 100-169. [Book available to view online via CLIO](https://clio.columbia.edu/catalog/11744583?counter=1)
+  - See also online: [https://slab.today/maps-2019/](https://slab.today/maps-2019/). 
 
 - [House, Brian. "Stalking the Smart City." 2019](https://urbanomnibus.net/2019/05/stalking-smart-city/)
 
 - [Folder. *Italian Limes*. 2014](http://www.italianlimes.net/)
   - [Recorded lecture by Marco Ferrari](https://vimeo.com/268248381)
+
+- [Weckert,Simon. "Google Maps Hacks." 2020](http://www.simonweckert.com/googlemapshacks.html)
+
+- [Berardi, Francesca & Grga Basic. "We Can NYC." 2018](https://canners.nyc/)
+
+- [Troittin, Masson, Tallon. *Usages: A subjective and Factual Analysis of Uses of Public Space*. 2011](http://www.marin-trottin.com/usages)
+
+- [Svarre, Birgitte and Jan Gehl. *How to Study Public Life*. 2013. ebook via Columbia Library](https://clio.columbia.edu/catalog/14098130?counter=1)
+
+- [MIT Sensable City Lab. "Trash Track." 2008](https://senseable.mit.edu/trashtrack/how-it-works.php?id=3)
 
 ## Making Data from Archives
 - [Visualizing Palestine, “Palestine Open Maps,”](https://palopenmaps.org/) 
