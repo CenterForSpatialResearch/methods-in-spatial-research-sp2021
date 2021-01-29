@@ -63,7 +63,7 @@ Lastly, you can `Download` your data as a `.csv` or `.JSON` file. Download it as
 
 **Tutorial Deliverable:** 
 
-TBA
+There is not a separate tutorial deliverable for this week -- you will just need to use what you learned here to complete [Assignment 2](/methods-in-spatial-research-sp2021/assignments/assignment02/)
 
 
 ---
