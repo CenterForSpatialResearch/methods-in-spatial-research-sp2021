@@ -55,7 +55,7 @@ After completing the course participants will:
 All course tutorials and assignments will be posted [here](https://centerforspatialresearch.github.io/methods-in-spatial-research-sp2021/) on the course website.
 All readings will be posted on the course [Google Drive folder](https://drive.google.com/drive/folders/1nOxjAfenbfmzo7-m6WHVHfGW7fsBt39r?usp=sharing) or made available via hyperlink below. 
 
-### Week 1 | Introduction to Critical GIS + Spatial Data Types
+### Week 1 | 1/15 | Introduction to Critical GIS + Spatial Data Types
 #### In class
 Group map critiques. Examples to be distributed during class
 
@@ -74,7 +74,7 @@ what is GIS + spatial data types (slides from NJIT)
 
 [Wood, Dennis. "Everything Sings: Maps for a Narrative Atlas." In Places Journal. 2011.](https://placesjournal.org/article/everything-sings-maps-for-a-narrative-atlas/?cn-reloaded=1) -->
 
-### Week 2 | Cartographic Projections + Mapping Existing Datasets
+### Week 2 | 1/22 | Cartographic Projections + Mapping Existing Datasets
 
 <!-- class plan:
 - discussion of readings in small groups + together
@@ -91,7 +91,7 @@ Couclelis, Helen. “People Manipulate Objects (but Cultivate Fields): Beyond th
 
 Optional: Rankin, William. "Introduction Territory and the Mapping Sciences" in *After The Map: Cartography, Navigation, and the Transformation of Territory in the Twentieth Century*. Chicago: University of Chicago Press. 2016.  [available online via CLIO [here](https://clio.columbia.edu/catalog/12582759?counter=1)]
 
-### Week 3 | Making Data From Observation & Sensing
+### Week 3 | 1/29 | Making Data From Observation & Sensing
 <!-- 
 class plan
 discussion of project examples in small groups. provided examples.
@@ -109,7 +109,7 @@ Ferrari, Marco, Elisa Pasqual, Alessandro Busi, Aaron Gillett. *A Moving Border:
 
 Williams, Sarah, Jacqueline Klopp, Daniel Orwa, Peter Waiganjo, and Adam White. “Digital Matatus: Using Mobile Technology to Visualize Informality.” 2015.
 
-### Week 4 | Making Data from Archives
+### Week 4 | 2/5 | Making Data from Archives
 
 #### Assignment 2 due – Mapping Observations
 
@@ -130,7 +130,7 @@ Digital Scholarship Lab, University of Richmond. *Mapping Inequality* 2015-ongoi
 
 - explore the [interactive maps](https://dsl.richmond.edu/panorama/redlining/) & be sure to read [the introduction](https://dsl.richmond.edu/panorama/redlining/#loc=5/39.1/-94.58&text=intro)
 
-### Week 5 | Making Data from Satellites
+### Week 5 | 2/12 | Making Data from Satellites
 
 #### Assignment 3 due – Selective Digitization
 
@@ -141,7 +141,7 @@ Kurgan, Laura. “Mapping Considered as a Problem of Theory and Practice.” 201
 *Additional text to be assigned based on course composition*
 <!-- 
 Desimini, Jill, and Charles Waldheim. “Introduction: Projecting the Landscape Imaginary.” 2016. -->
-### Week 6 | Maps & Narrative / Portfolio Presentations
+### Week 6 | 2/19 | Maps & Narrative / Portfolio Presentations
 
 #### Assignment 4 due – Mapping Remotely
 
