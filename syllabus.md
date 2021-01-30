@@ -118,14 +118,17 @@ Williams, Sarah, Jacqueline Klopp, Daniel Orwa, Peter Waiganjo, and Adam White. 
 <!-- class plan:
  -->
 Baics, Gergely, and Leah Meisterlin. “Zoning Before Zoning: Land Use and Density in Mid-Nineteenth-Century New York City.” 2016.
-    - This is an interdisciplinary paper with insights about both the history of land use in New York City and new methods for uncovering such histories with GIS. The link between these two aspects of the paper is really key and helpful, I think, as an illustration of how to develop spatial projects. They discuss three different sets of methods about three different urban land use phenomena. If you need to skim this piece read the introduction/conclusion and then pick at at least one of these three to focus on.
+
+- This is an interdisciplinary paper with insights about both the history of land use in New York City and new methods for uncovering such histories with GIS. The link between these two aspects of the paper is really key and helpful, I think, as an illustration of how to develop spatial projects. They discuss three different sets of methods about three different urban land use phenomena. If you need to skim this piece read the introduction/conclusion and then pick at at least one of these three to focus on.
 
 Majd Al-shihabi, Ahmad Barclay, et al. *Palestine Open Maps.* 2018-ongoing
-    - explore the platform [here](https://palopenmaps.org/)
-    - read [this short blog post](https://blogs.bl.uk/digital-scholarship/2019/05/palestine-open-maps-mapathon.html) written by the lead researcher of the project 
+
+- explore the platform [here](https://palopenmaps.org/)
+- read [this short blog post](https://blogs.bl.uk/digital-scholarship/2019/05/palestine-open-maps-mapathon.html) written by the lead researcher of the project 
 
 Digital Scholarship Lab, University of Richmond. *Mapping Inequality* 2015-ongoing
-    - explore the [interactive maps](https://dsl.richmond.edu/panorama/redlining/) & be sure to read [the introduction](https://dsl.richmond.edu/panorama/redlining/#loc=5/39.1/-94.58&text=intro)
+
+- explore the [interactive maps](https://dsl.richmond.edu/panorama/redlining/) & be sure to read [the introduction](https://dsl.richmond.edu/panorama/redlining/#loc=5/39.1/-94.58&text=intro)
 
 ### Week 5 | Making Data from Satellites
 
