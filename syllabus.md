@@ -161,10 +161,10 @@ Weekly map assignments will allow you to apply the skills acquired via tutorials
 
 For the final course session you will assemble your map assignments into a single document/portfolio/atlas.
 
-Final assessment will be based on:
-Attendance, engaged participation & discussion questions 20%
-Weekly tutorial completion 30%
-Weekly map assignments & compiled/revised map portfolio 50% (10% each)
+Final assessment will be based on:  
+Attendance, engaged participation & discussion questions 20%  
+Weekly tutorial completion 30%  
+Weekly map assignments & compiled/revised map portfolio 50% (10% each)  
 
 ## Software
 

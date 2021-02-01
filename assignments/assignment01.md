@@ -59,3 +59,7 @@ For sources for spatial datasets see:
 - University Mapping and/or Research Centers. For example:
   - [Eviction Lab. "Eviction Filing Rate & Evictions Rate." Princeton University](https://evictionlab.org/map/)
   - [Beirut Urban Lab, "Beirut Built Environment Database"](https://www.beiruturbanlab.com/en/Details/561)
+
+  <!-- rubric
+  
+   -->
