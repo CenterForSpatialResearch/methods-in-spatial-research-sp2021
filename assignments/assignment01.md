@@ -60,6 +60,19 @@ For sources for spatial datasets see:
   - [Eviction Lab. "Eviction Filing Rate & Evictions Rate." Princeton University](https://evictionlab.org/map/)
   - [Beirut Urban Lab, "Beirut Built Environment Database"](https://www.beiruturbanlab.com/en/Details/561)
 
-  <!-- rubric
-  
-   -->
+<!-- 
+  rubric
+  data - has two datasets [2]
+  inclusion of all map elements [5]
+  - title
+  - legend
+  - scale bar
+  - north arrow (your map doesn't need to have north be pointing vertically...)
+  - citations for all data sources 
+  - projection used
+  - your name
+
+clarity of creative mis-use & argument [2]
+intentional graphic approach [1]  
+
+-->

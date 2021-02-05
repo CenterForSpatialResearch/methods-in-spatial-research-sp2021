@@ -92,3 +92,10 @@ Upload a screenshot of your georeferenced map + digitized buildings to Canvas.
 
 Tutorial by Carsten Rodin, Spring 2020.  
 Adapted from materials from [Mapping for the Urban Humanities](https://github.com/CenterForSpatialResearch/mapping_for_the_urban_humanities), taught by Bernadette Baird-Zars, Eric Glass & Leah Meisterlin, Summer 2019.
+<!-- General workflow is:
+1. Georeference scanned map to known reference data that is in the correct projection for the area you are working in (I'd recommend using the streets/buildings shapefiles you have for Newark).
+2. export georeferenced map as a .tif file
+3. import to Rhino to trace polygon features (best practice to put each type of zone on a separate layer)
+4. export as .dxf or .dwg then import into QGIS (see these instructions)(https://docs.qgis.org/3.16/en/docs/user_manual/managing_data_source/opening_data.html?highlight=dwg#importing-a-dxf-or-dwg-file)
+
+ -->

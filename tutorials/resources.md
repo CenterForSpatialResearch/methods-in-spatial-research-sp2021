@@ -42,7 +42,8 @@ It includes map-related software tools/environments, data sources and archives, 
 
 ## Learning Resources
 
-- [Columbia for Spatial Research Tutorials ](https://c4sr.columbia.edu/tutorials)
+- [Projections Explanation from USGS](https://pubs.er.usgs.gov/publication/70047422)
+- [Columbia Center for Spatial Research Tutorials ](https://c4sr.columbia.edu/tutorials)
 - [Programming Historian](https://programminghistorian.org/en/)
 - [Baruch College Newman Library GIS Guides](https://guides.newman.baruch.cuny.edu/gis)
 - [Empirical Reasoning Center at Barnard](https://erc.barnard.edu)
