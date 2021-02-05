@@ -14,7 +14,7 @@ Create a vector dataset of point locations through field work using the GPS rece
 
 ### How
 
-Begin by reading through [Tutorial 3](/methods-in-spatial-research-sp2021/tutorials/tutorial03/). This tutorial will walk you through how to use [Epicollect](https://five.epicollect.net/) -- a digital data collection tool that works on cell phones. You will create an account and set up a new 'form' or data collection tool. Unlike previous weeks there is not a separate deliverable for tutorial 3, instead you will need to use it as a resource for creating your own data gathering instrument. 
+Begin by reading through [Tutorial 3](/methods-in-spatial-research-sp2021/tutorials/tutorial03/). Thi &ms tutorial will walk you through how to use [Epicollect](https://five.epicollect.net/) -- a digital data collection tool that works on cell phones. You will create an account and set up a new 'form' or data collection tool. Unlike previous weeks there is not a separate deliverable for tutorial 3, instead you will need to use it as a resource for creating your own data gathering instrument. 
 
 After you have a grasp on the process of setting up a form to collect data then:
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tutorial 6 - optional
-order: 9
+order: 11
 ---
 
 # Making a Basic Webmap 

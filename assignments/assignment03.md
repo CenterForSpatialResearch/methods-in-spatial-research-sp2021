@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Assignment 3
-order: 10 
+order: 9 
 ---
 
 ## Selective Digitization
@@ -10,12 +10,12 @@ order: 10
 
 ### What
 
-Research and obtain a scanned map, georeference it, and then digitize selected features from it to produce a new map with a different focus or narrative. Design a map composition that shows the georeferenced map and your new map of digitized features side by side. 
+Research and obtain a scanned map, georeference it, and then digitize selected features in order to produce a new map that has a different focus or narrative. Design a map composition that shows the georeferenced map and your new map of digitized features side by side. 
 
 ### Requirements 
 
 - Your final work must be a designed map composition with two maps (your georeferenced map and your new map of selectively digitized features) on a single slide with a 16:9 aspect ratio (1920x1080 pixels).
-- You are encouraged to select one of the map examples discussed thus far during class (either in [lecture slides](https://drive.google.com/open?id=1tQHHcbWB65EVjiqt-9ajyd5sVMHPuzls&authuser=db2672%40columbia.edu&usp=drive_fs) or during a [group exercise](https://drive.google.com/open?id=1f39yOn8mfryxkJdiHvaqJ3zQGA8elu47&authuser=db2672%40columbia.edu&usp=drive_fs)) and imitate its graphic style when designing the map of digitized features. 
+- You are encouraged to select one of the map examples discussed thus far during class (either in [lecture slides](https://drive.google.com/open?id=1tQHHcbWB65EVjiqt-9ajyd5sVMHPuzls&authuser=db2672%40columbia.edu&usp=drive_fs) or during a [group exercise](https://drive.google.com/open?id=1f39yOn8mfryxkJdiHvaqJ3zQGA8elu47&authuser=db2672%40columbia.edu&usp=drive_fs)) and imitate its graphic style when designing the map of digitized features. To questions about map design from class on 2/5: this is the best way to learn and practice designing beautiful maps.
 
 - Your designed map composition must include:
   - title
