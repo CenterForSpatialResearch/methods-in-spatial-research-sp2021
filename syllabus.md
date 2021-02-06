@@ -138,7 +138,6 @@ Digital Scholarship Lab, University of Richmond. *Mapping Inequality* 2015-ongoi
 
 Kurgan, Laura. “Mapping Considered as a Problem of Theory and Practice.” 2013.
 
-*Additional text to be assigned based on course composition*
 <!-- 
 Desimini, Jill, and Charles Waldheim. “Introduction: Projecting the Landscape Imaginary.” 2016. -->
 ### Week 6 | 2/19 | Maps & Narrative / Portfolio Presentations
