@@ -78,6 +78,19 @@ Beatrixpark, Amsterdam. Site specific artwork.](http://www.jeremywood.net/artwor
 
 ## Making Data from Satellites 
 
+- [Benson, Michael, "Watching the Earth Burn" The New York Times. December 28, 2020](https://www.nytimes.com/2020/12/28/opinion/climate-change-earth.html)
+
+- [Wallace, Tim, Derek Watkins, and John Schwartz. “A Map of Every Building in America.” 2018](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html)
+  - Brief technical documentation: [Microsoft/USBuildingFootprints. 2018. Microsoft, 2020.](https://github.com/microsoft/USBuildingFootprints)
+
+- [Badger, Emily and Quoctrung Bui, "A Decade of Urban Transformation, Seen From Above" Dec. 27, 2019](https://www.nytimes.com/interactive/2019/12/27/upshot/america-from-above.html)
+
+- [Pietrusko, Robert. "Test Sites." ongoing](http://www.warning-office.org/wo-test-sites)
+
+- [Shlomo Angel, Jason Parent, Daniel L. Civco, and Alejandro M. Blei. "Atlas of Urban Expansion" Lincoln Institute of Land Policy. 2012](https://www.lincolninst.edu/research-data/data/atlas-urban-expansion)
+
+- [K.K. Rebecca Lai, Denise Lu and Blacki Migliozzi, "What Satellite Imagery Tells Us About the Amazon Rain Forest Fires" The New York Times, August 24, 2019](https://www.nytimes.com/interactive/2019/08/24/world/americas/amazon-rain-forest-fire-maps.html)
+
 - [Begley, Josh, “Officer Involved.” The Intercept. December 30 2017.](https://theintercept.co/officer-involved/)
 
 - [Begley, Josh, “Best of Luck with the Wall.” Field of Vision. 2016](https://theintercept.com/2016/10/26/best-of-luck-with-the-wall/)
