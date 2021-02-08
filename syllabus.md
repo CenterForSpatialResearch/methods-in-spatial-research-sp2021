@@ -136,7 +136,9 @@ Digital Scholarship Lab, University of Richmond. *Mapping Inequality* 2015-ongoi
 
 #### Readings
 
-Kurgan, Laura. “Mapping Considered as a Problem of Theory and Practice.” 2013.
+Kurgan, Laura. “Mapping Considered as a Problem of Theory and Practice.” 2013.  
+
+*Please also review from week 2: Couclelis, Helen. “People Manipulate Objects (but Cultivate Fields): Beyond the Raster-Vector Debate in GIS.” 1992* 
 
 <!-- 
 Desimini, Jill, and Charles Waldheim. “Introduction: Projecting the Landscape Imaginary.” 2016. -->
@@ -214,3 +216,16 @@ Learning how to troubleshoot technical issues and locate relevant resources is c
 - screenshots (where applicable) that help to explain the problem
 - a link to at least one website you consulted for assistance with the issue before writing the email.The [QGIS docs](https://docs.qgis.org/3.10/en/docs/index.html) is a good starting place as is [GIS Stack Exchange](https://gis.stackexchange.com/).
 
+## Bibliography
+
+Baics, Gergely, and Leah Meisterlin. “Zoning Before Zoning: Land Use and Density in Mid-Nineteenth-Century New York City.” Annals of the American Association of Geographers 106, no. 5 (September 2, 2016): 1152–75. https://doi.org/10.1080/24694452.2016.1177442.  
+
+Corner, James. “The Agency of Mapping.” In Landscape Imagination: Collected Essays of James Corner 1990-2010. New York, UNITED STATES: Princeton Architectural Press, 2014. http://ebookcentral.proquest.com/lib/columbia/detail.action?docID=3387582.  
+
+Couclelis, Helen. “People Manipulate Objects (but Cultivate Fields): Beyond the Raster-Vector Debate in GIS.” In Theories and Methods of Spatio-Temporal Reasoning in Geographic Space, edited by A. U. Frank, I. Campari, and U. Formentini, 639:65–77. Lecture Notes in Computer Science. Berlin, Heidelberg: Springer Berlin Heidelberg, 1992. https://doi.org/10.1007/3-540-55966-3_3.  
+
+Ferrari, Marco, Elisa Pasqual, and Andrea Bagnato. A Moving Border: Alpine Cartographies of Climate Change. New York, NY: Columbia Books on Architecture and the City, 2019.  
+
+Kurgan, Laura. “Mapping Considered as a Problem of Theory and Practice.” In Close up at a Distance : Mapping, Technology, and Politics, 9–18. Brooklyn, NY: Zone Books, 2013.  
+
+Williams, Sarah, Jacqueline Klopp, Daniel Orwa, Peter Waiganjo, and Adam White. “Digital Matatus: Using Mobile Technology to Visualize Informality.” ACSA Annual Meeting Proceedings, The Expanding Periphery and the Migrating Center, 2015, 9.
