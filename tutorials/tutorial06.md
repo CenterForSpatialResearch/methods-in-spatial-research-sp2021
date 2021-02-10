@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tutorial 6 - optional
+title: Tutorial 6 - Webmaps
 order: 11
 ---
 

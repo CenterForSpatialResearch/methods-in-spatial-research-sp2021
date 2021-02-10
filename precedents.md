@@ -83,6 +83,8 @@ Beatrixpark, Amsterdam. Site specific artwork.](http://www.jeremywood.net/artwor
 - [Wallace, Tim, Derek Watkins, and John Schwartz. “A Map of Every Building in America.” 2018](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html)
   - Brief technical documentation: [Microsoft/USBuildingFootprints. 2018. Microsoft, 2020.](https://github.com/microsoft/USBuildingFootprints)
 
+- [NASA, "Vegas Sprawl" 1971- 2012](https://www.youtube.com/watch?v=xFzdyxwx50M)
+
 - [Badger, Emily and Quoctrung Bui, "A Decade of Urban Transformation, Seen From Above" Dec. 27, 2019](https://www.nytimes.com/interactive/2019/12/27/upshot/america-from-above.html)
 
 - [Pietrusko, Robert. "Test Sites." ongoing](http://www.warning-office.org/wo-test-sites)

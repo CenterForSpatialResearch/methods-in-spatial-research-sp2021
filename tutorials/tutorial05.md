@@ -35,7 +35,7 @@ One of the ways that remote sensing scientists study these 'spectral signatures'
 Below shows natural color and 'near infrared' false color composite images:
 ![compare]
 
-[This introduction](https://fromgistors.blogspot.com/p/user-manual.html) to remote sensing written by the developer of a remote sensing library for QGIS that we will use in this exercise provides a good entry point to further information on many of these concepts.
+[This introduction](https://appliedsciences.nasa.gov/join-mission/training/english/arset-fundamentals-remote-sensing) to remote sensing from NASA provides a good entry point to further information on many of these concepts.
 
 Students in this course might be interested in using Landsat satellite imagery as a base map for other analysis, or as an illustration of change over time in a particular area. 
 
@@ -49,7 +49,7 @@ This exercise will walk through how to create false color composites using multi
 
 Landsat satellite data is freely available and can be downloaded via a number of different websites. We will be using the USGS website: [EarthExplorer](https://earthexplorer.usgs.gov/)
 
-These are instructions for how to download Landsat satellite imagery via USGS for future reference. For this assignment landsat scenes were already provided to you, so scroll down to the next section.  
+These are instructions for how to download Landsat satellite imagery via USGS for future reference, and for use in the assignment. For this tutorial landsat scenes were already provided to you, so scroll down to the next section.  
 
 1. Select `Register` and then follow steps to **Register for an EarthExplorer account**
 2. Use the map to zoom in to your area of interest 
@@ -119,7 +119,7 @@ This tool tells the program which band it should map to the red, green, or blue 
 
 Note: to make the image appear more saturated zoom in to a bright-ish area of the image and then click the `Local cumulative cut stretch` button (circled in yellow above)
 
-Further information about band combinations and the kinds of phenomena they make visible can be found [here](../assets/resources/LandsatBandInformation_Berkeley.pdf). Take a look through this document and try out combinations that are interesting to you.
+Further information about band combinations and the kinds of phenomena they make visible can be found [here](/methods-in-spatial-research-sp2021/tutorials/assets/resources/LandsatBandInformation_Berkeley.pdf). Take a look through this document and try out combinations that are interesting to you.
 
 A color composite using `3-2-1` for a 'natural color' image:  
 
@@ -142,7 +142,7 @@ If you'd like you can repeat the steps above on the second Landsat image bundle 
 
 Beyond false color composites researchers use the spectral signatures for different features of the earths surface to classify land use and land cover and a variety of other phenomena. The [USGS for example](https://www.usgs.gov/core-science-systems/science-analytics-and-synthesis/gap/science/land-cover) produces and maintains data on land use and land cover which it creates using Landsat and other remotely sensed data.  
 
-You can create your specific land use classifications using something called supervised classification. This is beyond the required scope of this assignment but if you are interested in going further please follow the instructions for using the SCP for creating your own land use classification contained in this external tutorial [here](https://fromgistors.blogspot.com/2020/10/land-cover-classification-scp-7.html)
+You can create your specific land use classifications using something called supervised classification. This is beyond the required scope of this assignment but if you are interested in going further please follow the instructions for using the SCP for creating your own land use classification contained in this external tutorial produced by the Applied Remote Sensing Training Program at NASA[here](https://appliedsciences.nasa.gov/join-mission/training/english/arset-land-cover-classification-satellite-imagery)
 
 ## Part B: Google Satellite & Street View APIs
 
