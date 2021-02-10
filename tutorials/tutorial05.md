@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Tutorial 5
+title: Tutorial 5A
 order: 8
 ---
 
-# Mapping Remotely 
+# Mapping Remotely - A 
 
-## Part A: Multi spectral satellite imagery 
+## Multispectral satellite imagery 
 
 This portion of the tutorial will introduce you to multispectral satellite imagery, and to the process of visualizing phenomena through 'false color composites'. As an introduction we will create false color composites using Landsat satellite imagery of Puerto Rico captured just before and after [Hurricane Maria](https://en.wikipedia.org/wiki/Hurricane_Maria) (on September 17 2017 and October 3 2017).
 
@@ -144,12 +144,6 @@ Beyond false color composites researchers use the spectral signatures for differ
 
 You can create your specific land use classifications using something called supervised classification. This is beyond the required scope of this assignment but if you are interested in going further please follow the instructions for using the SCP for creating your own land use classification contained in this external tutorial produced by the Applied Remote Sensing Training Program at NASA[here](https://appliedsciences.nasa.gov/join-mission/training/english/arset-land-cover-classification-satellite-imagery)
 
-## Part B: Google Satellite & Street View APIs
-
-To be added. Will cover how to batch download aerial imagery and/or street view images from Google via their API to make projects like these from Josh Begley:
-
-- Begley, Josh, [“Officer Involved.” The Intercept. December 30 2017.](https://theintercept.co/officer-involved/)
-- Begley, Josh, [“Best of Luck with the Wall.” Field of Vision. 2016](https://theintercept.com/2016/10/26/best-of-luck-with-the-wall/)
 
 
 ---
