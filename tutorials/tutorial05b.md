@@ -23,7 +23,7 @@ At a high level the process below is as follows:
 
 The outputs are image files (.png) that are not georeferenced and thus are best suited to use outside of a GIS software -- combined into grids, assembled for an animation or GIF 
 
-###  Instructions
+## Instructions
 
 ### Prerequisites
 Follow instructions for how to create a Google API key for the Static Maps API [here](https://developers.google.com/maps/documentation/maps-static/get-api-key). 
