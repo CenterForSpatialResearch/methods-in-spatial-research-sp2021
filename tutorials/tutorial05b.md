@@ -127,23 +127,25 @@ satellite_squares_colab(uploaded_filename,"yourAPIkey",13,640)
 You should see the names of the images print in your notebook and images for the latitude and longitude coordinates specified in your csv file will begin to download to the downloads folder of your computer.
 
 ### Method B: Python environment on your computer
-2. you must have python 3 installed on your computer, [anaconda's distribution](https://www.anaconda.com/distribution/) is a great option
-3. the script relies on three modules `requests` `csv` and `io`, install these using your package manager if you do not already have them installed
 
+If you already have Python 3 installed on your computer please follow these instructions.  
+
+The script requires three dependencies: `requests` `csv` and `io`, install these using your package manager if you do not already have them installed
 
 #### Step 1: formatting a csv file with latitude and longitude coordinates
-1. the script below expects a CSV file in a specific format, with three columns, no headers/column names, column 1 contains a unique id for each point, column 2 contains latitude coordinates, column 3 contains longitude coordinates. A sample of three points are shown below
+The script below expects a CSV file in a specific format, with three columns, no headers/column names, column 1 contains a unique id for each point, column 2 contains latitude coordinates, column 3 contains longitude coordinates. A sample of three points are shown below
 
 ```
 101,39.203425,8.403248
 102,27.884442,-97.259635
 103,-16.432387,136.098233
 ```
-2. save the snippet above as `test_points.csv`, and/or change the latitude and longitude coordinates to locations of your choosing
+
+Save the snippet above as `test_points.csv`, and/or change the latitude and longitude coordinates to locations of your choosing
 
 #### Step 2: defining the function to download images
 
-1.  review the script below, it defines a function to download satellite images based on input parameters.
+Review the script below, it defines a function to download satellite images based on input parameters.
 
 ```python
 import requests
@@ -188,15 +190,16 @@ def satellite_squares(csvforimport,APIkey,zoom,size):
             return False    
 ```
 
-2. run the script above in your preferred python environment, jupyter notebooks is a good option, you can also run it in a terminal
+Run the script above in your preferred python environment, jupyter notebooks is a good option, you can also run it in a terminal
 
-3. once you have defined the function above call the function to download images.
+Once you have defined the function above call the function to download images.
 ```python
 satellite_squares("path-to-your-csv-file/test_points.csv","yourAPIkey",13,640)
 ```
+
 Note on file paths: depending on where / how you are running this python script you may need to use either an absolute or a relative path to your csv files
 
-4. images for the latitude and longitude coordinates specified in your csv file will be downloaded into whatever location on your hard drive you are running the script from  
+Images for the latitude and longitude coordinates specified in your csv file will be downloaded into whatever location on your hard drive you are running the script from  
 
 
 _________________________________________________________________________________
