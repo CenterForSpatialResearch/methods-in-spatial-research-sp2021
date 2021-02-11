@@ -45,7 +45,7 @@ The script below expects a CSV file in a specific format, with three columns, no
 103,-16.432387,136.098233
 ```
 
-Save the snippet above as `test_points.csv`, and/or change the latitude and longitude coordinates to locations of your choosing
+Save the snippet above as `test_points.csv`, and/or change the latitude and longitude coordinates to locations of your choosing. You can do this by either pasting the text above into a text editor (making sure it is in plain text mode) and save it as `test_points.csv`. Or you can use some spreadsheet software (google sheets, or excel) and create a table with three columns containing the values above and save it as a `.csv` file. When you reuse this script on you own you will likely be using latitude and longitude coordinates gathered from elsewhere -- you may export them from QGIS, or from EpiCollect, or manually input them into a spreadsheet. Before uploading them here be sure to format them exactly as shown above. 
 
 #### Step 2 - Setting up Colab and uploading the csv file 
 
@@ -86,7 +86,8 @@ def locationreader(uploaded_filename):
 # the path to a csv file containing lat/lon coordinates
 # your API key
 # the zoom level you would your images to be downloaded as
-# the size, in pixels of your images, the maximum is 640
+# the size, in pixels of your images, the maximum is 640 
+# unless you have signed up for a premium account
 
 def satellite_squares_colab(uploaded_filename,APIkey,zoom,size):
     API_KEY = APIkey
@@ -120,10 +121,10 @@ def satellite_squares_colab(uploaded_filename,APIkey,zoom,size):
 
 #### Step 4 - Run the function to download your images
 
-Once you have defined the function above call the function to download images.
+Once you have defined the function above call the function to download images. Replace the parameters in quotations with the name of the csv file you uploaded and your API key (both need to be enclosed in " ")
 
 ```python
-satellite_squares_colab(uploaded_filename,"yourAPIkey",13,640)
+satellite_squares_colab("uploaded_filename","yourAPIkey",13,640)
 ```
 
 You should see the names of the images print in your notebook and images for the latitude and longitude coordinates specified in your csv file will begin to download to the downloads folder of your computer.
@@ -135,7 +136,6 @@ If you already use Python (3) please follow these instructions.
 The script requires three dependencies: `requests` `csv` and `io`, install these using your package manager if you do not already have them installed
 
 #### Step 1: formatting a csv file with latitude and longitude coordinates
-
 The script below expects a CSV file in a specific format, with three columns, no headers/column names, column 1 contains a unique id for each point, column 2 contains latitude coordinates, column 3 contains longitude coordinates. A sample of three points are shown below
 
 ```
@@ -144,7 +144,7 @@ The script below expects a CSV file in a specific format, with three columns, no
 103,-16.432387,136.098233
 ```
 
-Save the snippet above as `test_points.csv`, and/or change the latitude and longitude coordinates to locations of your choosing
+Save the snippet above as `test_points.csv`, and/or change the latitude and longitude coordinates to locations of your choosing. You can do this by either pasting the text above into a text editor (making sure it is in plain text mode) and save it as `test_points.csv`. Or you can use some spreadsheet software (google sheets, or excel) and create a table with three columns containing the values above and save it as a `.csv` file. When you reuse this script on you own you will likely be using latitude and longitude coordinates gathered from elsewhere -- you may export them from QGIS, or from EpiCollect, or manually input them into a spreadsheet. Before uploading them here be sure to format them exactly as shown above. 
 
 #### Step 2: defining the function to download images
 
