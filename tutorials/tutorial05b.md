@@ -35,7 +35,8 @@ Follow instructions for how to create a Google API key for the Static Maps API [
 
 Launch [Google Colab](https://colab.research.google.com/). This is a cloud-based programming environment that allows for the execution of Python code in the browser.
 
-#### Step 1: formatting a csv file with latitude and longitude coordinates
+#### Step 1 - formatting a csv file with latitude and longitude coordinates
+
 The script below expects a CSV file in a specific format, with three columns, no headers/column names, column 1 contains a unique id for each point, column 2 contains latitude coordinates, column 3 contains longitude coordinates. A sample of three points are shown below
 
 ```
@@ -46,7 +47,7 @@ The script below expects a CSV file in a specific format, with three columns, no
 
 Save the snippet above as `test_points.csv`, and/or change the latitude and longitude coordinates to locations of your choosing
 
-#### Step 2: Setting up Colab and uploading the csv file 
+#### Step 2 - Setting up Colab and uploading the csv file 
 
 Open a new Google Colab notebook. This is the environment you will use to run the Python script which will query the Google Static Maps API.  
 
@@ -64,7 +65,8 @@ for fn in uploaded.keys():
       name=fn, length=len(uploaded[fn])))
 ```
 Use the `Choose Files` button that appears to navigate to the 'test_points.csv' file that you have just created. 
-#### Step 3: Define and run Python function to query API
+
+#### Step 3 - Define and run Python function to query API
 
 In the next cell of your notebook copy the following script, and run it. It defines a function to download satellite images based on input parameters:
 
@@ -116,7 +118,7 @@ def satellite_squares_colab(uploaded_filename,APIkey,zoom,size):
             return False 
 ```
 
-#### Step 4: Run the function to download your images
+#### Step 4 - Run the function to download your images
 
 Once you have defined the function above call the function to download images.
 
@@ -126,13 +128,14 @@ satellite_squares_colab(uploaded_filename,"yourAPIkey",13,640)
 
 You should see the names of the images print in your notebook and images for the latitude and longitude coordinates specified in your csv file will begin to download to the downloads folder of your computer.
 
-### Method B: Python environment on your computer
+### Method B - Python environment on your computer
 
-If you already have Python 3 installed on your computer please follow these instructions.  
+If you already use Python (3) please follow these instructions.  
 
 The script requires three dependencies: `requests` `csv` and `io`, install these using your package manager if you do not already have them installed
 
 #### Step 1: formatting a csv file with latitude and longitude coordinates
+
 The script below expects a CSV file in a specific format, with three columns, no headers/column names, column 1 contains a unique id for each point, column 2 contains latitude coordinates, column 3 contains longitude coordinates. A sample of three points are shown below
 
 ```
