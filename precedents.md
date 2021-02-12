@@ -93,6 +93,8 @@ Beatrixpark, Amsterdam. Site specific artwork.](http://www.jeremywood.net/artwor
 
 - [K.K. Rebecca Lai, Denise Lu and Blacki Migliozzi, "What Satellite Imagery Tells Us About the Amazon Rain Forest Fires" The New York Times, August 24, 2019](https://www.nytimes.com/interactive/2019/08/24/world/americas/amazon-rain-forest-fire-maps.html)
 
+- [Eames Office. *Powers of Ten*. 1977](https://www.youtube.com/watch?v=0fKBhvDjuy0)
+
 - [Begley, Josh, “Officer Involved.” The Intercept. December 30 2017.](https://theintercept.co/officer-involved/)
 
 - [Begley, Josh, “Best of Luck with the Wall.” Field of Vision. 2016](https://theintercept.com/2016/10/26/best-of-luck-with-the-wall/)
