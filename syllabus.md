@@ -48,8 +48,8 @@ After completing the course participants will:
 | 3 | 1/29 |   Making Data From Observation & Sensing | [Tutorial 2](/methods-in-spatial-research-sp2021/tutorials/tutorial02/) |  [Assignment 1](/methods-in-spatial-research-sp2021/assignments/assignment01/)  |
 | 4 | 2/5 | Making Data from Archives | [Tutorial 3](/methods-in-spatial-research-sp2021/tutorials/tutorial03/) |  Assignment 2 |
 | 5 | 2/12 |  Making Data from Satellites | [Tutorial 4](/methods-in-spatial-research-sp2021/tutorials/tutorial04/) |  Assignment 3 |
-| 6 | 2/19 |  Maps & Narrative / Portfolio Presentations | [Tutorial 5](/methods-in-spatial-research-sp2021/tutorials/tutorial05/)  |  Assignment 4 & Assembled Portfolio  |
-
+| 6 | 2/19 |  Maps & Narrative / Portfolio Presentations | [Tutorial 5a](/methods-in-spatial-research-sp2021/tutorials/tutorial05/) or [Tutorial 5b](/methods-in-spatial-research-sp2021/tutorials/tutorial05b/) |  [Assignment 4](/methods-in-spatial-research-sp2021/assignments/assignment04/) |
+| no class | 2/26 | Portfolio Due | |
 
 ## Weekly Schedule, Readings, & Assignments
 All course tutorials and assignments will be posted [here](https://centerforspatialresearch.github.io/methods-in-spatial-research-sp2021/) on the course website.
