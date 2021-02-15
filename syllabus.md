@@ -150,7 +150,7 @@ Desimini, Jill, and Charles Waldheim. “Introduction: Projecting the Landscape 
 
 Please watch: [*In Plain Sight.* by Diller Scofidio + Renfro, Laura Kurgan, Robert Gerard Pietrusko with Columbia Center for Spatial Research at the 2018 U.S. Pavilion.](https://dsrny.com/project/in-plain-sight)
 
-Please read 2-3 map-based articles from the New York Times. A list is included at the end of the precedents list (if you choose one not on the list, please include a link in your discussion question post on Canvas). 
+Please read 2-3 map-based articles from the New York Times. [A list is included at the end of the precedents page here](/methods-in-spatial-research-sp2021/precedents/#new-york-times-graphics-department-map-forward-stories) (if you choose one that is not already on the list, please include a link in your discussion question post on Canvas). 
 
 - across these articles and when watching *In Plain Sight* try to focus on identifying the core narrative, and then on discerning *how* the narrative is being conveyed via the maps and other media used
 
