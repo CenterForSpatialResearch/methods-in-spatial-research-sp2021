@@ -142,15 +142,23 @@ Kurgan, Laura. “Mapping Considered as a Problem of Theory and Practice.” 201
 
 <!-- 
 Desimini, Jill, and Charles Waldheim. “Introduction: Projecting the Landscape Imaginary.” 2016. -->
-### Week 6 | 2/19 | Maps & Narrative / Portfolio Presentations
+### Week 6 | 2/19 | Maps & Narrative
 
 #### Assignment 4 due – Mapping Remotely
 
 #### Readings
 
-Film: [*In Plain Sight.* by Diller Scofidio + Renfro, Laura Kurgan, Robert Gerard Pietrusko with Columbia Center for Spatial Research at the 2018 U.S. Pavilion.](https://dsrny.com/project/in-plain-sight)
+Please watch: [*In Plain Sight.* by Diller Scofidio + Renfro, Laura Kurgan, Robert Gerard Pietrusko with Columbia Center for Spatial Research at the 2018 U.S. Pavilion.](https://dsrny.com/project/in-plain-sight)
 
-Mortenbock & Mooshammer. *Informal Market Worlds* [Selections]
+Please read 2-3 map-based articles from the New York Times. A list is included at the end of the precedents list (if you choose one not on the list, please include a link in your discussion question post on Canvas). 
+
+- across these articles and when watching *In Plain Sight* try to focus on identifying the core narrative, and then on discerning *how* the narrative is being conveyed via the maps and other media used
+
+<!-- Mortenbock & Mooshammer. *Informal Market Worlds* [Selections] -->
+
+### 2/26 | no class
+
+#### Mapping Portfolio Due
 
 ## Requirements
 
