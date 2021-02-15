@@ -144,8 +144,9 @@ Beyond false color composites researchers use the spectral signatures for differ
 
 You can create your specific land use classifications using something called supervised classification. This is beyond the required scope of this assignment but if you are interested in going further please follow the instructions for using the SCP for creating your own land use classification contained in this external tutorial produced by the Applied Remote Sensing Training Program at NASA[here](https://appliedsciences.nasa.gov/join-mission/training/english/arset-land-cover-classification-satellite-imagery)
 
+## Tutorial Deliverable
 
-
+Upload a screenshot of your false color composite to Canvas.
 ---
 Tutorial by Dare Brawley, Spring 2021
 

@@ -204,7 +204,9 @@ Note on file paths: depending on where / how you are running this python script 
 
 Images for the latitude and longitude coordinates specified in your csv file will be downloaded into whatever location on your hard drive you are running the script from  
 
+## Tutorial Deliverable
 
+Upload the csv file you used and a screenshot of the directory where you have saved your downloaded images to Canvas.
 _________________________________________________________________________________
 Guide written by Dare Brawley based on tools used in producing *[In Plain Sight](https://c4sr.columbia.edu/projects/plain-sight)*, an installation for the 16th International Architecture Exhibition of La Biennale di Venezia in 2018.
 

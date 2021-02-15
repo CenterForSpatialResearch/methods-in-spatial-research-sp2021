@@ -156,9 +156,7 @@ Please read 2-3 map-based articles from the New York Times. A list is included a
 
 <!-- Mortenbock & Mooshammer. *Informal Market Worlds* [Selections] -->
 
-### 2/26 | no class
-
-#### Mapping Portfolio Due
+### 2/26 | no class | Mapping Portfolio Due
 
 ## Requirements
 
