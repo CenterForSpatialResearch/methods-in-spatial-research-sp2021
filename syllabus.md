@@ -49,7 +49,7 @@ After completing the course participants will:
 | 4 | 2/5 | Making Data from Archives | [Tutorial 3](/methods-in-spatial-research-sp2021/tutorials/tutorial03/) |  Assignment 2 |
 | 5 | 2/12 |  Making Data from Satellites | [Tutorial 4](/methods-in-spatial-research-sp2021/tutorials/tutorial04/) |  Assignment 3 |
 | 6 | 2/19 |  Maps & Narrative / Portfolio Presentations | [Tutorial 5a](/methods-in-spatial-research-sp2021/tutorials/tutorial05/) or [Tutorial 5b](/methods-in-spatial-research-sp2021/tutorials/tutorial05b/) |  [Assignment 4](/methods-in-spatial-research-sp2021/assignments/assignment04/) |
-| no class | 2/26 | Portfolio Due | |
+| no class | 2/26 | [Portfolio Due](/methods-in-spatial-research-sp2021/assignments/portfolio/) | |
 
 ## Weekly Schedule, Readings, & Assignments
 All course tutorials and assignments will be posted [here](https://centerforspatialresearch.github.io/methods-in-spatial-research-sp2021/) on the course website.
@@ -156,7 +156,7 @@ Please read 2-3 map-based articles from the New York Times. [A list is included 
 
 <!-- Mortenbock & Mooshammer. *Informal Market Worlds* [Selections] -->
 
-### 2/26 | no class | Mapping Portfolio Due
+### 2/26 | no class | [Mapping Portfolio Due](/methods-in-spatial-research-sp2021/assignments/portfolio/)
 
 ## Requirements
 
