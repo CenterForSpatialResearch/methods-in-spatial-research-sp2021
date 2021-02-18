@@ -70,6 +70,8 @@ Use the `Choose Files` button that appears to navigate to the 'test_points.csv' 
 
 In the next cell of your notebook copy the following script, and run it. It defines a function to download satellite images based on input parameters:
 
+**nb** copy this exactly and run it, do not chance anything !
+
 ```python
 # required modules
 import requests
@@ -126,6 +128,8 @@ Once you have defined the function above call the function to download images. R
 ```python
 satellite_squares_colab("uploaded_filename","yourAPIkey",13,640)
 ```
+
+**nb** make sure you use the snippet above and not the code from step 3. 
 
 You should see the names of the images print in your notebook and images for the latitude and longitude coordinates specified in your csv file will begin to download to the downloads folder of your computer.
 
