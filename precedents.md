@@ -136,8 +136,8 @@ Beatrixpark, Amsterdam. Site specific artwork.](http://www.jeremywood.net/artwor
 
   - [Gillis, Justin, Jonathan Corum, Evan Grothjan, Graham Roberts, Rumsey Taylor, Derek Watkins, and Jeremy White. 2017. “Miles of Ice Collapsing Into the Sea.” The New York Times, May 18, 2017, sec. Climate.](https://www.nytimes.com/interactive/2017/05/18/climate/antarctica-ice-melt-climate-change.html)
 
-  - [Koeze, Ella, Jugal K. Patel, and Anjali Singhvi. 2020. “Where Americans Live Far From the Emergency Room.” The New York Times, April 26, 2020, sec. U.S.](https://www.nytimes.com/interactive/2020/04/26/us/us-hospital-access-coronavirus.html.)
-  
+  - [Koeze, Ella, Jugal K. Patel, and Anjali Singhvi. 2020. “Where Americans Live Far From the Emergency Room.” The New York Times, April 26, 2020, sec. U.S.](https://www.nytimes.com/interactive/2020/04/26/us/us-hospital-access-coronavirus.html)
+
   - [Plumer, Brad, Nadja Popovich, and Brian Palmer. 2020. “How Decades of Racist Housing Policy Left Neighborhoods Sweltering.” The New York Times, August 31, 2020, sec. Climate.](https://www.nytimes.com/interactive/2020/08/24/climate/racism-redlining-cities-global-warming.html.)
 
 

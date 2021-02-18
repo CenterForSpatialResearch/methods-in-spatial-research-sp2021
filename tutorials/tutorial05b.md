@@ -210,7 +210,10 @@ Images for the latitude and longitude coordinates specified in your csv file wil
 
 ## Tutorial Deliverable
 
-Upload the csv file you used and a screenshot of the directory where you have saved your downloaded images to Canvas.
+Upload to Canvas: 
+- the csv file you used and 
+- a screenshot of the directory on your computer where you have saved your downloaded images 
+
 _________________________________________________________________________________
 Guide written by Dare Brawley based on tools used in producing *[In Plain Sight](https://c4sr.columbia.edu/projects/plain-sight)*, an installation for the 16th International Architecture Exhibition of La Biennale di Venezia in 2018.
 

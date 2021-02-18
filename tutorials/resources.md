@@ -55,14 +55,17 @@ It includes map-related software tools/environments, data sources and archives, 
 - [GIS StackExchange](https://gis.stackexchange.com) - StackExchange and related sites (StackOverflow for code/programming topics) are a great resource, especially for open-source GIS tools like QGIS which tend to be less rigorously documented than their commercial counterparts.  However, you need to be careful that specific solutions you find here are relevant to the version of the software you're using - comments and threads here are usually more useful at a broader conceptual level than as a way to find viable examples and instructions. Look to the official documentation for these kinds of things as they'll almost always be more up-to-date.
 
 ### Projections
+
 - [Projections Explanation from USGS](https://pubs.er.usgs.gov/publication/70047422)
 
 ### Remote Sensing
+
 - [NASA ARSET Fundamentals of Remote Sensing Tutorials](https://appliedsciences.nasa.gov/join-mission/training/english/arset-fundamentals-remote-sensing)
 - [NASA ARSET Landsat Classificiation Tutorials](https://appliedsciences.nasa.gov/join-mission/training/english/arset-land-cover-classification-satellite-imagery)
 - [NASA ARSET Introduction to NASA’s "Black Marble" Night Lights Data](https://appliedsciences.nasa.gov/join-mission/training/english/arset-introduction-nasas-black-marble-night-lights-data)
 
 ### Mapping Online/Webmaps
+
 - [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) - As this will show you, web development is a huge topic with many different areas of specialization. This is a good structured overview of what's out there when/if you choose to go beyond the simple static site setup we used in the tutorials.
 
 ## Blogs, Inspiration
@@ -83,4 +86,4 @@ It includes map-related software tools/environments, data sources and archives, 
 - [European Urban Cartography](https://www.arch.columbia.edu/courses/11355-2746) (GSAPP)
 
 ---
-Tutorial by Carsten Rodin, Spring 2020.
+Resources compiled by Dare Brawley, Nadine Fattaleh, Carsten Rodin, Spring 2020-21.
