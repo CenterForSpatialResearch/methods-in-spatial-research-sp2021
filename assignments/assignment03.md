@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Assignment 3
-order: 9 
+order: 11 
 ---
 
 ## Selective Digitization

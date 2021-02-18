@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Assignment 4
-order: 10
+order: 12
 ---
 
 ## Mapping Remotely

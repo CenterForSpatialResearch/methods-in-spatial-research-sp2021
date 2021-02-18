@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tutorial 7 - Obtaining Census Data
-order: 12
+order: 15
 ---
 
 # Working with data from the U.S. Census

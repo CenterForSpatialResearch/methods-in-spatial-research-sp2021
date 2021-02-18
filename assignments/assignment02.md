@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Assignment 2
-order: 9
+order: 10
 ---
 
 ## Collecting & Mapping
