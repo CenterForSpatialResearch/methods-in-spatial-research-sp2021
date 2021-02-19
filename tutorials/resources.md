@@ -7,7 +7,7 @@ order: 14
 # Resources
 
 This page provides a partially-annotated bibliography of mapping resources. 
-It includes map-related software tools/environments, data sources and archives, online learning resources, and finally other mapping classes you can take here at Columbia.It's by no means exhaustive but hopefully it'll help each of you identify some new territory for exploration as you continue your journey with critical mapping.
+It includes map-related software tools/environments, data sources and archives, online learning resources, and finally other mapping classes you can take here at Columbia. It is by no means exhaustive but hopefully it might help each of you identify some new territory for exploration as you continue your journey with critical mapping.
 
 ## Software Tools and Environments
 
@@ -43,11 +43,15 @@ It includes map-related software tools/environments, data sources and archives, 
 ## Learning Resources
 
 ### Columbia/Barnard 
-- [Columbia Center for Spatial Research Tutorials ](https://c4sr.columbia.edu/tutorials)
+
 - [Empirical Reasoning Center at Barnard](https://erc.barnard.edu)
-- [Studio@Butler](https://studio.cul.columbia.edu) - Our temporary home, otherwise a great resource for all kinds of digital humanities stuff.
+- [Studio@Butler](https://studio.cul.columbia.edu) 
+- [GSAPP Skill Trails](https://skilltrails.gsapp.org/#/map)
+- [Columbia Center for Spatial Research Tutorials ](https://c4sr.columbia.edu/tutorials)
+
 
 ### General Resources/Introductions
+
 - [Programming Historian](https://programminghistorian.org/en/)
 - [Baruch College Newman Library GIS Guides](https://guides.newman.baruch.cuny.edu/gis)
 - [GIS StackExchange](https://gis.stackexchange.com) - StackExchange and related sites (StackOverflow for code/programming topics) are a great resource, especially for open-source GIS tools like QGIS which tend to be less rigorously documented than their commercial counterparts.  However, you need to be careful that specific solutions you find here are relevant to the version of the software you're using - comments and threads here are usually more useful at a broader conceptual level than as a way to find viable examples and instructions. Look to the official documentation for these kinds of things as they'll almost always be more up-to-date.
