@@ -42,8 +42,6 @@ It includes map-related software tools/environments, data sources and archives, 
 
 ## Learning Resources
 
-
-
 ### Columbia/Barnard 
 - [Columbia Center for Spatial Research Tutorials ](https://c4sr.columbia.edu/tutorials)
 - [Empirical Reasoning Center at Barnard](https://erc.barnard.edu)
@@ -76,14 +74,18 @@ It includes map-related software tools/environments, data sources and archives, 
 - [Geoawesomeness](https://geoawesomeness.com)
 - There's also plenty of map-related content on [are.na](https://are.na), Twitter, Instagram...
   
-## Classes
+## Other Columbia/Barnard Classes
 
 - [Introduction to GIS](https://urban.barnard.edu/courses-instruction) (Barnard)
 - [GIS, Resiliency, Environment, Infrastructure Management](http://www.columbia.edu/cu/bulletin/uwb/#/cu/bulletin/uwb/subj/EAEE/E4009-20191-B01) (Earth Institute)
 - [Geographic Information Systems](https://www.arch.columbia.edu/courses/41514-2483) (GSAPP)
-- [Advanced Spatial Analysis](https://www.arch.columbia.edu/courses/11496-2790-advanced-spatial-analysis) (GSAPP)
+- [Advanced Spatial Analysis](https://www.arch.columbia.edu/courses/12743-3315-advanced-spatial-analysis) (GSAPP)
 - [Mapping for Architecture Urbanism and Humanities](https://www.arch.columbia.edu/courses/14051-2826) (GSAPP)
 - [European Urban Cartography](https://www.arch.columbia.edu/courses/11355-2746) (GSAPP)
+- [Points Unknown: Cartographic Narratives](https://www.arch.columbia.edu/courses/11292-3209) (GSAPP)
+- [Spatial History and Historical GIS](http://www.columbia.edu/cu/bulletin/uwb/#/cu/bulletin/uwb/subj/HIST/GU4924-20203-001) (GSAS, History)
+- [GIS and Spatial Analysis for Social Science](http://www.columbia.edu/cu/bulletin/uwb/#/cu/bulletin/uwb/subj/QMSS/GR5070-20203-001) (QMSS)
+- [GIS for Sustainable Development](www.columbia.edu/cu/bulletin/uwb/#/cu/bulletin/uwb/subj/SDEV/UN3390-20203-001)(Earth Institute)
 
 ---
 Resources compiled by Dare Brawley, Nadine Fattaleh, Carsten Rodin, Spring 2020-21.
