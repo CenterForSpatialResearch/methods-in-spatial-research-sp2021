@@ -6,7 +6,7 @@ order: 13
 
 ## Mapping Portfolio/Mini-Atlas
 
-### Due: 3/5/2021
+### Due: 3/10/2021
 
 
 Please assemble your responses to the four assignments from this semester into a single portfolio -- a mini-atlas -- of your mapping work thus far.
